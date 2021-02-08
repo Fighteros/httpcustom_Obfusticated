@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Каждые %d дн.</item>
+        <item quantity="one">Ежедневно</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">; для %d раз</item>
+        <item quantity="one">; один раз</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Для %d событий</item>
+        <item quantity="one">Для %d события</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Каждые %d дн.</item>
+        <item quantity="one">Каждый %d день</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Каждые %d мес.</item>
+        <item quantity="one">Каждый %d месяц</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Каждые %d нед.</item>
+        <item quantity="one">Каждую %d неделю</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">Каждые %d лет</item>
+        <item quantity="one">Каждый %d год</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Каждые %1$d недель в %2$s</item>
+        <item quantity="one">Еженедельно в %2$s</item>
+    </plurals>
+</resources>

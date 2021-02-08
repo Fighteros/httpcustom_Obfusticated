@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bz">270dp</dimen>
+    <dimen name="c0">30dp</dimen>
+    <dimen name="c1">14dp</dimen>
+    <dimen name="c2">270dp</dimen>
+    <dimen name="c4">16dp</dimen>
+    <dimen name="c5">16sp</dimen>
+    <dimen name="eo">10sp</dimen>
+    <dimen name="ep">16sp</dimen>
+    <dimen name="eq">50dp</dimen>
+    <dimen name="er">45dp</dimen>
+    <dimen name="j7">340dp</dimen>
+    <dimen name="j8">300dp</dimen>
+    <dimen name="j9">100dp</dimen>
+    <dimen name="j_">50dp</dimen>
+    <dimen name="ja">24dp</dimen>
+    <dimen name="jb">24dp</dimen>
+    <dimen name="ju">64dp</dimen>
+    <dimen name="jv">22dp</dimen>
+</resources>

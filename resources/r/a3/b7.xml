@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="@dimen/bf" android:paddingTop="@dimen/bg" android:paddingRight="@dimen/bf" android:paddingBottom="@dimen/bg" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/bn">
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/he" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <EditText android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="start" android:id="@+id/h0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:hint="@string/je" android:maxLines="1" android:inputType="text"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/d6" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/v7" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/d7" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/q1" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/d8" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/fx" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/d9" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/s9" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/d4" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/fw" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/d5" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/fj" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/d3" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/c2" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/da" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/w1" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/d_" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/jr" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <Button android:textColor="@android:color/white" android:id="@+id/c3" android:background="@drawable/cc" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:text="@string/aq"/>
+            <RelativeLayout android:gravity="center" android:id="@+id/bi" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true"/>
+            <RelativeLayout android:id="@+id/cd" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+                <TextView android:textAppearance="@style/hp" android:textColorLink="@color/b2" android:gravity="start" android:autoLink="web" android:linksClickable="true" android:id="@+id/nl" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="2016 © ePro Dev. Team"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">මුල් පිටුවට සංචාලනය කරන්න</string>
+    <string name="w">ඉහළට සංචාලනය කරන්න</string>
+    <string name="x">තවත් විකල්ප</string>
+    <string name="y">කළා</string>
+    <string name="z">සියල්ල බලන්න</string>
+    <string name="a0">යෙදුමක් තෝරන්න</string>
+    <string name="a1">ක්‍රියාවිරහිතයි</string>
+    <string name="a2">ක්‍රියාත්මකයි</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">මකන්න</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">සොයන්න...</string>
+    <string name="ad">විමසුම හිස් කරන්න</string>
+    <string name="ae">සෙවුම් විමසුම</string>
+    <string name="af">සෙවීම</string>
+    <string name="ag">විමසුම යොමු කරන්න</string>
+    <string name="ah">හඬ සෙවීම</string>
+    <string name="ai">සමග බෙදා ගන්න</string>
+    <string name="aj">%s සමඟ බෙදා ගන්න</string>
+    <string name="ak">හකුළන්න</string>
+    <string name="dn">%1$s හට Google Play සේවා සමගින් ගැටලු ඇත. කරුණාකර නැවත උත්සාහ කරන්න.</string>
+    <string name="qd">රූපය සුරකින්න</string>
+    <string name="qe">වෙළඳ දැන්වීමට පින්තූර ගැලරිය තුළ රූපය ගබඩා කිරීමට ඉඩ දෙන්නද?</string>
+    <string name="qf">පිළිගන්න</string>
+    <string name="qg">ප්‍රතික්ෂේප කරන්න</string>
+    <string name="qh">දින දර්ශන සිදුවීම සාදන්න</string>
+    <string name="qi">වෙළඳ දැන්වීමට දින දර්ශන සිදුවීමක් සෑදීමට ඉඩ දෙන්නද?</string>
+    <string name="qj">පරීක්ෂණ වෙළඳ දැන්වීම</string>
+    <string name="qu">සෙවීම</string>
+    <string name="tg">999+</string>
+</resources>

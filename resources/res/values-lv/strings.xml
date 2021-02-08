@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Pārvietoties uz sākuma ekrānu</string>
+    <string name="w">Pārvietoties uz augšu</string>
+    <string name="x">Citas opcijas</string>
+    <string name="y">Gatavs</string>
+    <string name="z">Skatīt visu</string>
+    <string name="a0">Izvēlieties lietotni</string>
+    <string name="a1">IZSLĒGT</string>
+    <string name="a2">IESLĒGT</string>
+    <string name="a3">Alternēšanas taustiņš +</string>
+    <string name="a4">Vadīšanas taustiņš +</string>
+    <string name="a5">dzēšanas taustiņš</string>
+    <string name="a6">ievadīšanas taustiņš</string>
+    <string name="a7">Funkcijas taustiņš +</string>
+    <string name="a8">Meta taustiņš +</string>
+    <string name="a9">Pārslēgšanas taustiņš +</string>
+    <string name="a_">atstarpes taustiņš</string>
+    <string name="aa">Simbolu taustiņš +</string>
+    <string name="ab">Poga Izvēlne +</string>
+    <string name="ac">Meklējiet…</string>
+    <string name="ad">Notīrīt vaicājumu</string>
+    <string name="ae">Meklēšanas vaicājums</string>
+    <string name="af">Meklēt</string>
+    <string name="ag">Iesniegt vaicājumu</string>
+    <string name="ah">Meklēt ar balsi</string>
+    <string name="ai">Kopīgot ar:</string>
+    <string name="aj">Kopīgot ar lietojumprogrammu %s</string>
+    <string name="ak">Sakļaut</string>
+    <string name="dn">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="qd">Attēla saglabāšana</string>
+    <string name="qe">Vai atļaut reklāmai saglabāt attēlu galerijā?</string>
+    <string name="qf">Piekrist</string>
+    <string name="qg">Noraidīt</string>
+    <string name="qh">Kalendāra pasākuma izveide</string>
+    <string name="qi">Vai atļaut reklāmai izveidot kalendāra pasākumu?</string>
+    <string name="qj">Testa reklāma</string>
+    <string name="qu">Meklēt</string>
+    <string name="tg">999+</string>
+</resources>

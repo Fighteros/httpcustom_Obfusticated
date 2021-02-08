@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Əsas səhifəyə keçin</string>
+    <string name="w">Yuxarı keçin</string>
+    <string name="x">Digər seçimlər</string>
+    <string name="y">Hazırdır</string>
+    <string name="z">Hamısına baxın</string>
+    <string name="a0">Tətbiq seçin</string>
+    <string name="a1">DEAKTİV</string>
+    <string name="a2">AKTİV</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">silin</string>
+    <string name="a6">daxil olun</string>
+    <string name="a7">Funksiya+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menyu+</string>
+    <string name="ac">Axtarış...</string>
+    <string name="ad">Sorğunu silin</string>
+    <string name="ae">Axtarış sorğusu</string>
+    <string name="af">Axtarın</string>
+    <string name="ag">Sorğunu göndərin</string>
+    <string name="ah">Səsli axtarış</string>
+    <string name="ai">Paylaşın</string>
+    <string name="aj">%s ilə paylaşın</string>
+    <string name="ak">Yığcamlaşdırın</string>
+    <string name="dn">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="qd">Şəkli yadda saxlayın</string>
+    <string name="qe">Reklama təsvirləri Şəkil qalereyasında saxlamağa icazə verilsin?</string>
+    <string name="qf">Qəbul edin</string>
+    <string name="qg">Rədd edin</string>
+    <string name="qh">Təqvim tədbiri yaradın</string>
+    <string name="qi">Təqvim tədbiri yaratmaq üçün Reklama icazə verilsin?</string>
+    <string name="qj">Test Reklamı</string>
+    <string name="qu">Axtarın</string>
+    <string name="tg">999+</string>
+</resources>

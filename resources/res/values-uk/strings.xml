@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Перейти на головну</string>
+    <string name="w">Перейти вгору</string>
+    <string name="x">Більше опцій</string>
+    <string name="y">Готово</string>
+    <string name="z">Показати всі</string>
+    <string name="a0">Вибрати програму</string>
+    <string name="a1">ЗНИЖКА</string>
+    <string name="a2">УВІМК.</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">пробіл</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Введіть пошуковий запит…</string>
+    <string name="ad">Очистити запит</string>
+    <string name="ae">Пошуковий запит</string>
+    <string name="af">Пошук</string>
+    <string name="ag">Наіслати запит</string>
+    <string name="ah">Голосовий пошук</string>
+    <string name="ai">Поділитися:</string>
+    <string name="aj">Поділитися через додаток %s</string>
+    <string name="ak">Згорнути</string>
+    <string name="dn">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="qd">Зберегти зображення</string>
+    <string name="qe">Дозволити оголошенню зберегти зображення в галереї?</string>
+    <string name="qf">Прийняти</string>
+    <string name="qg">Відхилити</string>
+    <string name="qh">Створити подію календаря</string>
+    <string name="qi">Дозволити оголошенню створити подію календаря?</string>
+    <string name="qj">Тестове оголошення</string>
+    <string name="qu">Пошук</string>
+    <string name="tg">999+</string>
+</resources>

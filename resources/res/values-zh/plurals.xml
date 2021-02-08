@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">每 %d 天</item>
+        <item quantity="one">日常</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">; 执行 %d 次</item>
+        <item quantity="one">; 一次</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">执行 %d 次</item>
+        <item quantity="one">执行 %d 次</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">每 %d 天</item>
+        <item quantity="one">每 %d 天</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">每 %d 月</item>
+        <item quantity="one">每 %d 月</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">每 %d 周</item>
+        <item quantity="one">每 %d 周</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">每 %d 年</item>
+        <item quantity="one">每 %d 年</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">每 %1$d 周的 %2$s</item>
+        <item quantity="one">每周的 %2$s</item>
+    </plurals>
+</resources>

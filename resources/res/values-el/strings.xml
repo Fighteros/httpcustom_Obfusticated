@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Πλοήγηση στην αρχική σελίδα</string>
+    <string name="w">Πλοήγηση προς τα επάνω</string>
+    <string name="x">Περισσότερες επιλογές</string>
+    <string name="y">Τέλος</string>
+    <string name="z">Εμφάνιση όλων</string>
+    <string name="a0">Επιλέξτε μια εφαρμογή</string>
+    <string name="a1">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="a2">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">διάστημα</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Αναζήτηση…</string>
+    <string name="ad">Διαγραφή ερωτήματος</string>
+    <string name="ae">Ερώτημα αναζήτησης</string>
+    <string name="af">Αναζήτηση</string>
+    <string name="ag">Υποβολή ερωτήματος</string>
+    <string name="ah">Φωνητική αναζήτηση</string>
+    <string name="ai">Κοινοποίηση σε</string>
+    <string name="aj">Κοινοποίηση στην εφαρμογή %s</string>
+    <string name="ak">Σύμπτυξη</string>
+    <string name="dn">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
+    <string name="qd">Αποθήκευση εικόνας</string>
+    <string name="qe">Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στο gallery φωτογραφιών;</string>
+    <string name="qf">Αποδοχή</string>
+    <string name="qg">Απόρριψη</string>
+    <string name="qh">Δημιουργία συμβάντος ημερολογίου</string>
+    <string name="qi">Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</string>
+    <string name="qj">Δοκιμαστική διαφήμιση</string>
+    <string name="qu">Αναζήτηση</string>
+    <string name="tg">999+</string>
+</resources>

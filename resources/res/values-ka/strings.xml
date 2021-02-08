@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">მთავარზე გადასვლა</string>
+    <string name="w">ზემოთ გადასვლა</string>
+    <string name="x">სხვა ვარიანტები</string>
+    <string name="y">მზადაა</string>
+    <string name="z">ყველას ნახვა</string>
+    <string name="a0">აირჩიეთ აპი</string>
+    <string name="a1">გამორთვა</string>
+    <string name="a2">ჩართვა</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">შორისი</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">ძიება…</string>
+    <string name="ad">მოთხოვნის გასუფთავება</string>
+    <string name="ae">მოთხოვნის ძიება</string>
+    <string name="af">ძიება</string>
+    <string name="ag">მოთხოვნის გადაგზავნა</string>
+    <string name="ah">ხმოვანი ძიება</string>
+    <string name="ai">გაზიარება:</string>
+    <string name="aj">%s-ით გაზიარება</string>
+    <string name="ak">ჩაკეცვა</string>
+    <string name="dn">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="qd">სურათის შენახვა</string>
+    <string name="qe">აძლევთ ნებას რეკლამას, შეინახოს სურათი გალერეაში?</string>
+    <string name="qf">მიღება</string>
+    <string name="qg">უარყოფა</string>
+    <string name="qh">კალენდარში მოვლენის შექმნა</string>
+    <string name="qi">აძლევთ ნებას რეკლამას, შექმნას მოვლენა კალენდარში?</string>
+    <string name="qj">სატესტო რეკლამა</string>
+    <string name="qu">ძიება</string>
+    <string name="tg">999+</string>
+</resources>

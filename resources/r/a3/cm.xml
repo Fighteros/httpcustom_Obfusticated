@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal" android:id="@+id/jq" android:paddingRight="12dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/iv">
+    <ImageView android:id="@+id/go" android:background="@drawable/ca" android:layout_width="@dimen/iw" android:layout_height="@dimen/iv" android:scaleType="center"/>
+    <FrameLayout android:id="@+id/jp" android:paddingLeft="12dp" android:paddingTop="@dimen/ix" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1"/>
+    <FrameLayout android:id="@+id/kz" android:paddingLeft="12dp" android:paddingTop="12dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <include android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/cs"/>
+        <LinearLayout android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+            <TextView android:textAppearance="@style/if" android:layout_gravity="center" android:id="@+id/gu" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+            <ImageView android:layout_gravity="center" android:id="@+id/ky" android:visibility="gone" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginLeft="8dp" android:scaleType="center" android:alpha="0.7"/>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

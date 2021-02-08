@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="c">48dp</dimen>
+    <dimen name="bb">12dp</dimen>
+    <dimen name="bd">14dp</dimen>
+    <dimen name="c3">189dp</dimen>
+    <dimen name="jy">210dp</dimen>
+    <dimen name="jz">300dp</dimen>
+    <dimen name="k0">200dp</dimen>
+    <dimen name="dk">24sp</dimen>
+    <dimen name="k1">250dp</dimen>
+    <dimen name="es">24dp</dimen>
+    <dimen name="ev">24dp</dimen>
+    <dimen name="g4">20dp</dimen>
+    <dimen name="g6">4dp</dimen>
+    <dimen name="g_">96dp</dimen>
+    <dimen name="gc">0dp</dimen>
+    <dimen name="gd">0dp</dimen>
+    <dimen name="ge">104dp</dimen>
+    <dimen name="gm">68dp</dimen>
+    <dimen name="go">28dp</dimen>
+    <dimen name="gp">64dp</dimen>
+    <dimen name="gq">32dp</dimen>
+    <dimen name="gr">24dp</dimen>
+    <dimen name="gs">32dp</dimen>
+    <dimen name="j7">281dp</dimen>
+    <dimen name="j8">500dp</dimen>
+    <dimen name="j_">100dp</dimen>
+    <dimen name="ja">30dp</dimen>
+    <dimen name="jb">30dp</dimen>
+</resources>

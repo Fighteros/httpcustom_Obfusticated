@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Chỉ đường về nhà</string>
+    <string name="w">Di chuyển lên</string>
+    <string name="x">Tùy chọn khác</string>
+    <string name="y">Xong</string>
+    <string name="z">Xem tất cả</string>
+    <string name="a0">Chọn một ứng dụng</string>
+    <string name="a1">TẮT</string>
+    <string name="a2">BẬT</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Tìm kiếm…</string>
+    <string name="ad">Xóa truy vấn</string>
+    <string name="ae">Truy vấn tìm kiếm</string>
+    <string name="af">Tìm kiếm</string>
+    <string name="ag">Gửi truy vấn</string>
+    <string name="ah">Tìm kiếm bằng giọng nói</string>
+    <string name="ai">Chia sẻ với</string>
+    <string name="aj">Chia sẻ với %s</string>
+    <string name="ak">Thu gọn</string>
+    <string name="dn">%1$s đang gặp sự cố với các dịch vụ của Google Play. Hãy thử lại.</string>
+    <string name="qd">Lưu hình ảnh</string>
+    <string name="qe">Cho phép Quảng cáo lưu trữ hình ảnh trong thư viện Ảnh?</string>
+    <string name="qf">Chấp nhận</string>
+    <string name="qg">Từ chối</string>
+    <string name="qh">Tạo sự kiện lịch</string>
+    <string name="qi">Cho phép Quảng cáo tạo sự kiện lịch?</string>
+    <string name="qj">Quảng cáo thử nghiệm</string>
+    <string name="qu">Tìm kiếm</string>
+    <string name="tg">999+</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">นำทางไปหน้าแรก</string>
+    <string name="w">กลับ</string>
+    <string name="x">ตัวเลือกอื่น</string>
+    <string name="y">เสร็จ</string>
+    <string name="z">ดูทั้งหมด</string>
+    <string name="a0">เลือกแอป</string>
+    <string name="a1">ปิด</string>
+    <string name="a2">เปิด</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">ลบ</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">Space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">เมนู+</string>
+    <string name="ac">ค้นหา…</string>
+    <string name="ad">ล้างคำค้นหา</string>
+    <string name="ae">คำค้นหา</string>
+    <string name="af">ค้นหา</string>
+    <string name="ag">ส่งคำค้นหา</string>
+    <string name="ah">ค้นหาด้วยเสียง</string>
+    <string name="ai">แชร์กับ</string>
+    <string name="aj">แชร์ทาง %s</string>
+    <string name="ak">ยุบ</string>
+    <string name="dn">%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</string>
+    <string name="qd">บันทึกรูปภาพ</string>
+    <string name="qe">อนุญาตให้โฆษณาจัดเก็บรูปภาพในแกลเลอรีภาพไหม</string>
+    <string name="qf">ยอมรับ</string>
+    <string name="qg">ปฏิเสธ</string>
+    <string name="qh">สร้างกิจกรรมในปฏิทิน</string>
+    <string name="qi">อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</string>
+    <string name="qj">โฆษณาทดสอบ</string>
+    <string name="qu">ค้นหา</string>
+    <string name="tg">999+</string>
+</resources>

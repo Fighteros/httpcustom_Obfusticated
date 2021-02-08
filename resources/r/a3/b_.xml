@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.codetroopers.betterpickers.hmspicker.HmsView android:gravity="top" android:layout_gravity="center" android:id="@+id/gb" android:paddingLeft="@dimen/jl" android:paddingTop="@dimen/ei" android:paddingBottom="@dimen/ei" android:layout_width="0dp" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_weight="2">
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:id="@+id/gj" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/rw"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:gravity="top" android:id="@+id/gi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/id" android:singleLine="true" style="@style/rt"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:id="@+id/ib" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/rw"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:id="@+id/i_" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/rw"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:gravity="top" android:id="@+id/i9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ie" android:singleLine="true" style="@style/rt"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:id="@+id/lp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/s1"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:id="@+id/lo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/s1"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:gravity="top" android:id="@+id/ln" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/if" android:singleLine="true" style="@style/rt"/>
+            <com.codetroopers.betterpickers.widget.ZeroTopPaddingTextView android:ellipsize="none" android:gravity="top" android:id="@+id/i7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/n2" android:singleLine="true" style="@style/rt"/>
+        </com.codetroopers.betterpickers.hmspicker.HmsView>
+        <ImageButton android:gravity="center" android:layout_gravity="center" android:id="@+id/ef" android:background="@drawable/bt" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/ax" android:contentDescription="@string/u9"/>
+    </LinearLayout>
+    <View android:id="@+id/ep" android:background="@color/bf" android:layout_width="match_parent" android:layout_height="1dp"/>
+    <include android:id="@+id/fv" layout="@layout/di"/>
+    <include android:id="@+id/lm" layout="@layout/di"/>
+    <include android:id="@+id/o5" layout="@layout/di"/>
+    <include android:id="@+id/g0" layout="@layout/di"/>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <interpolator name="a">r/a1/a.xml</interpolator>
+    <interpolator name="b">r/a1/b.xml</interpolator>
+    <interpolator name="c">r/a1/c.xml</interpolator>
+    <interpolator name="d">r/a1/d.xml</interpolator>
+    <interpolator name="e">r/a1/e.xml</interpolator>
+    <interpolator name="f">r/a1/f.xml</interpolator>
+    <interpolator name="g">r/a1/g.xml</interpolator>
+    <interpolator name="h">r/a1/h.xml</interpolator>
+    <interpolator name="i">r/a1/i.xml</interpolator>
+    <interpolator name="j">r/a1/j.xml</interpolator>
+    <interpolator name="k">r/a1/k.xml</interpolator>
+</resources>

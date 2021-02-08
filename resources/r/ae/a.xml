@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/b_" android:id="@+id/j8" android:title="@string/m1"/>
+    <item android:title="@string/m9">
+        <menu>
+            <item android:icon="@drawable/bk" android:id="@+id/j_" android:title="@string/m3"/>
+            <item android:icon="@drawable/bo" android:id="@+id/jb" android:title="@string/m6"/>
+        </menu>
+    </item>
+    <item android:title="@string/ly">
+        <menu>
+            <item android:icon="@drawable/bm" android:id="@+id/ja" android:title="@string/m4"/>
+            <item android:icon="@drawable/br" android:id="@+id/je" android:title="@string/m_"/>
+        </menu>
+    </item>
+    <item android:title="@string/m7">
+        <menu>
+            <item android:icon="@drawable/b4" android:id="@+id/j6" android:title="@string/lz"/>
+            <item android:icon="@drawable/bp" android:id="@+id/jc" android:title="@string/m8"/>
+            <item android:icon="@drawable/b7" android:id="@+id/j7" android:title="@string/m0"/>
+            <item android:icon="@drawable/bj" android:id="@+id/j9" android:title="@string/m2"/>
+        </menu>
+    </item>
+</menu>

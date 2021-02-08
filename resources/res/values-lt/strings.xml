@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Eiti į pagrindinį puslapį</string>
+    <string name="w">Naršyti aukštyn</string>
+    <string name="x">Daugiau parinkčių</string>
+    <string name="y">Atlikta</string>
+    <string name="z">Žr. viską</string>
+    <string name="a0">Pasirinkite programą</string>
+    <string name="a1">IŠJUNGTI</string>
+    <string name="a2">ĮJUNGTI</string>
+    <string name="a3">„Alt“ +</string>
+    <string name="a4">„Ctrl“ +</string>
+    <string name="a5">„delete“</string>
+    <string name="a6">„enter“</string>
+    <string name="a7">„Function“ +</string>
+    <string name="a8">„Meta“ +</string>
+    <string name="a9">„Shift“ +</string>
+    <string name="a_">„space“</string>
+    <string name="aa">„Sym“ +</string>
+    <string name="ab">„Menu“ +</string>
+    <string name="ac">Ieškoti…</string>
+    <string name="ad">Išvalyti užklausą</string>
+    <string name="ae">Paieškos užklausa</string>
+    <string name="af">Ieškoti</string>
+    <string name="ag">Pateikti užklausą</string>
+    <string name="ah">Paieška balsu</string>
+    <string name="ai">Bendrinti su</string>
+    <string name="aj">Bendrinti naudojant programą „%s“</string>
+    <string name="ak">Sutraukti</string>
+    <string name="dn">Naudojant programą „%1$s“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą.</string>
+    <string name="qd">Išsaugoti vaizdą</string>
+    <string name="qe">Leisti skelbimui išsaugoti vaizdą nuotraukų galerijoje?</string>
+    <string name="qf">Sutikti</string>
+    <string name="qg">Atmesti</string>
+    <string name="qh">Sukurti kalendoriaus įvykį</string>
+    <string name="qi">Leisti skelbimui sukurti kalendoriaus įvykį?</string>
+    <string name="qj">Bandomasis skelbimas</string>
+    <string name="qu">Ieškoti</string>
+    <string name="tg">999+</string>
+</resources>

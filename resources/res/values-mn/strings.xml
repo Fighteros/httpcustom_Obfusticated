@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Нүүр хуудас уруу шилжих</string>
+    <string name="w">Дээш шилжих</string>
+    <string name="x">Бусад сонголт</string>
+    <string name="y">Болсон</string>
+    <string name="z">Бүгдийг харах</string>
+    <string name="a0">Аппыг сонгох</string>
+    <string name="a1">ИДЭВХГҮЙ</string>
+    <string name="a2">ИДЭВХТЭЙ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">устгах</string>
+    <string name="a6">оруулах</string>
+    <string name="a7">Функц+</string>
+    <string name="a8">Мета+</string>
+    <string name="a9">Шифт+</string>
+    <string name="a_">зай</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Цэс+</string>
+    <string name="ac">Хайх…</string>
+    <string name="ad">Асуулга арилгах</string>
+    <string name="ae">Хайх асуулга</string>
+    <string name="af">Хайх</string>
+    <string name="ag">Асуулга илгээх</string>
+    <string name="ah">Дуут хайлт</string>
+    <string name="ai">Дараахтай хуваалцах</string>
+    <string name="aj">%s-тай хуваалцах</string>
+    <string name="ak">Буулгах</string>
+    <string name="dn">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="qd">Зураг хадгалах</string>
+    <string name="qe">Зарыг Зургийн цомогт зураг хадгалахыг зөвшөөрөх үү?</string>
+    <string name="qf">Зөвшөөрөх</string>
+    <string name="qg">Татгалзах</string>
+    <string name="qh">Хуанлийн үйл явдал үүсгэх</string>
+    <string name="qi">Зарыг хуанлийн үйл явдал үүсгэхийг зөвшөөрөх үү?</string>
+    <string name="qj">Тест зар</string>
+    <string name="qu">Хайх</string>
+    <string name="tg">999+</string>
+</resources>

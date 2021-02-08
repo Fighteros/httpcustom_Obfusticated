@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="@style/lm" android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" class="com.google.android.material.snackbar.SnackbarContentLayout">
+    <TextView android:textAppearance="@style/iu" android:ellipsize="end" android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/m5" android:paddingLeft="@dimen/d_" android:paddingTop="@dimen/da" android:paddingRight="@dimen/d_" android:paddingBottom="@dimen/da" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="@integer/g" android:layout_weight="1"/>
+    <Button android:textColor="?attr/er" android:layout_gravity="right|center_vertical|center_horizontal|center|end" android:id="@+id/m4" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/d7" android:minWidth="48dp" style="?attr/bj"/>
+</view>

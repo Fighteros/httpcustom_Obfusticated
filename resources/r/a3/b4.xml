@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:id="@+id/fp" android:layout_width="50dp" android:layout_height="50dp" android:contentDescription="File Chooser"/>
+    <TextView android:textStyle="bold" android:id="@+id/l" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:text="@+id/k" android:maxLines="1" android:layout_toRightOf="@+id/fp"/>
+    <TextView android:id="@+id/n" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="@+id/m" android:layout_toRightOf="@+id/fp" android:layout_below="@+id/l"/>
+    <TextView android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/o" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5dp" android:text="@+id/o" android:layout_below="@+id/l" android:layout_alignParentRight="true"/>
+</RelativeLayout>

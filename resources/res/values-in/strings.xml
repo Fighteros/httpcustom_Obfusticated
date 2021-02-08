@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Tunjukkan jalan ke rumah</string>
+    <string name="w">Kembali ke atas</string>
+    <string name="x">Opsi lain</string>
+    <string name="y">Selesai</string>
+    <string name="z">Lihat semua</string>
+    <string name="a0">Pilih aplikasi</string>
+    <string name="a1">NONAKTIF</string>
+    <string name="a2">AKTIF</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">spasi</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Telusuri...</string>
+    <string name="ad">Hapus kueri</string>
+    <string name="ae">Telusuri kueri</string>
+    <string name="af">Telusuri</string>
+    <string name="ag">Kirim kueri</string>
+    <string name="ah">Penelusuran suara</string>
+    <string name="ai">Bagikan dengan</string>
+    <string name="aj">Bagikan dengan %s</string>
+    <string name="ak">Ciutkan</string>
+    <string name="dn">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="qd">Simpan gambar</string>
+    <string name="qe">Izinkan Iklan menyimpan gambar di Galeri foto?</string>
+    <string name="qf">Terima</string>
+    <string name="qg">Tolak</string>
+    <string name="qh">Buat acara kalender</string>
+    <string name="qi">Izinkan Iklan membuat acara kalender?</string>
+    <string name="qj">Tes Iklan</string>
+    <string name="qu">Telusuri</string>
+    <string name="tg">999+</string>
+</resources>

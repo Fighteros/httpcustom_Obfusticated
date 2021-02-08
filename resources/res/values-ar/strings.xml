@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">التوجه إلى المنزل</string>
+    <string name="w">التنقل إلى أعلى</string>
+    <string name="x">خيارات أكثر</string>
+    <string name="y">تم</string>
+    <string name="z">عرض الكل</string>
+    <string name="a0">اختيار تطبيق</string>
+    <string name="a1">إيقاف</string>
+    <string name="a2">تفعيل</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">حذف</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">فضاء</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">القائمة+</string>
+    <string name="ac">بحث…</string>
+    <string name="ad">محو طلب البحث</string>
+    <string name="ae">طلب بحث</string>
+    <string name="af">البحث</string>
+    <string name="ag">إرسال طلب البحث</string>
+    <string name="ah">بحث صوتي</string>
+    <string name="ai">مشاركة مع</string>
+    <string name="aj">مشاركة مع %s</string>
+    <string name="ak">تصغير</string>
+    <string name="dn">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="qd">حفظ الصورة</string>
+    <string name="qe">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
+    <string name="qf">قبول</string>
+    <string name="qg">رفض</string>
+    <string name="qh">إنشاء حدث تقويم</string>
+    <string name="qi">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
+    <string name="qj">إعلان تجريبي</string>
+    <string name="qu">البحث</string>
+    <string name="tg">999+</string>
+</resources>

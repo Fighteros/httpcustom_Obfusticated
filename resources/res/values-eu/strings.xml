@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Joan orri nagusira</string>
+    <string name="w">Joan gora</string>
+    <string name="x">Aukera gehiago</string>
+    <string name="y">Eginda</string>
+    <string name="z">Ikusi guztiak</string>
+    <string name="a0">Aukeratu aplikazio bat</string>
+    <string name="a1">DESAKTIBATU</string>
+    <string name="a2">AKTIBATU</string>
+    <string name="a3">Alt +</string>
+    <string name="a4">Ktrl +</string>
+    <string name="a5">ezabatu</string>
+    <string name="a6">sartu</string>
+    <string name="a7">Funtzioa +</string>
+    <string name="a8">Meta +</string>
+    <string name="a9">Maius +</string>
+    <string name="a_">zuriunea</string>
+    <string name="aa">Sym +</string>
+    <string name="ab">Menua +</string>
+    <string name="ac">Bilatu…</string>
+    <string name="ad">Garbitu kontsulta</string>
+    <string name="ae">Bilaketa-kontsulta</string>
+    <string name="af">Bilatu</string>
+    <string name="ag">Bidali kontsulta</string>
+    <string name="ah">Ahozko bilaketa</string>
+    <string name="ai">Partekatu honekin</string>
+    <string name="aj">Partekatu %s aplikazioarekin</string>
+    <string name="ak">Tolestu</string>
+    <string name="dn">%1$s aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro.</string>
+    <string name="qd">Gorde irudia</string>
+    <string name="qe">Irudia irudien galerian gordetzea baimendu nahi diozu iragarkiari?</string>
+    <string name="qf">Onartu</string>
+    <string name="qg">Baztertu</string>
+    <string name="qh">Sortu egutegiko gertaera bat</string>
+    <string name="qi">Egutegiko gertaera bat sortzea baimendu nahi diozu iragarkiari?</string>
+    <string name="qj">Probako iragarkia</string>
+    <string name="qu">Bilatu</string>
+    <string name="tg">999+</string>
+</resources>

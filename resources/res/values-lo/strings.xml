@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">ກັບໄປໜ້າຫຼັກ</string>
+    <string name="w">ເລື່ອນຂຶ້ນເທິງ</string>
+    <string name="x">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="y">ແລ້ວໆ</string>
+    <string name="z">ເບິ່ງທັງໝົດ</string>
+    <string name="a0">ເລືອກແອັບ</string>
+    <string name="a1">ປິດ</string>
+    <string name="a2">ເປີດ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">ລຶບ</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">ຍະຫວ່າງ</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">ຊອກຫາ…</string>
+    <string name="ad">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="ae">ຄຳສຳລັບຄົ້ນຫາ</string>
+    <string name="af">ຊອກຫາ</string>
+    <string name="ag">ສົ່ງຂໍ້ມູນ</string>
+    <string name="ah">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="ai">ແບ່ງປັນກັບ</string>
+    <string name="aj">ແບ່ງປັນດ້ວຍ %s</string>
+    <string name="ak">ຫຍໍ້ລົງ</string>
+    <string name="dn">%1$s ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="qd">ບັນທຶກຮູບພາບ</string>
+    <string name="qe">ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?</string>
+    <string name="qf">ຍອມຮັບ</string>
+    <string name="qg">ປະຕິເສດ</string>
+    <string name="qh">ສ້າງນັດໝາຍປະຕິທິນ</string>
+    <string name="qi">ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?</string>
+    <string name="qj">ໂຄສະນາທົດສອບ</string>
+    <string name="qu">ຊອກຫາ</string>
+    <string name="tg">999+</string>
+</resources>

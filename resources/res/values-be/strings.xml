@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Перайсці на галоўную старонку</string>
+    <string name="w">Перайсці ўверх</string>
+    <string name="x">Дадатковыя параметры</string>
+    <string name="y">Гатова</string>
+    <string name="z">Паказаць усе</string>
+    <string name="a0">Выберыце праграму</string>
+    <string name="a1">ВЫКЛ.</string>
+    <string name="a2">УКЛ.</string>
+    <string name="a3">Alt +</string>
+    <string name="a4">Ctrl +</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Fn +</string>
+    <string name="a8">Meta +</string>
+    <string name="a9">Shift +</string>
+    <string name="a_">Прабел</string>
+    <string name="aa">Sym +</string>
+    <string name="ab">Меню +</string>
+    <string name="ac">Пошук…</string>
+    <string name="ad">Выдаліць запыт</string>
+    <string name="ae">Пошукавы запыт</string>
+    <string name="af">Пошук</string>
+    <string name="ag">Адправіць запыт</string>
+    <string name="ah">Галасавы пошук</string>
+    <string name="ai">Абагуліць праз</string>
+    <string name="aj">Абагуліць праз праграму \"%s\"</string>
+    <string name="ak">Згарнуць</string>
+    <string name="dn">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="qd">Захаваць відарыс</string>
+    <string name="qe">Дазволіць рэкламе захоўваць відарыс у Галерэі відарысаў?</string>
+    <string name="qf">Прыняць</string>
+    <string name="qg">Адхіліць</string>
+    <string name="qh">Стварыць падзею календара</string>
+    <string name="qi">Дазволіць рэкламе стварыць падзею календара?</string>
+    <string name="qj">Тэставая рэклама</string>
+    <string name="qu">Пошук</string>
+    <string name="tg">999+</string>
+</resources>

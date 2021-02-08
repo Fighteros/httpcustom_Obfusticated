@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">ניווט לדף הבית</string>
+    <string name="w">ניווט למעלה</string>
+    <string name="x">עוד אפשרויות</string>
+    <string name="y">סיום</string>
+    <string name="z">הצגת הכול</string>
+    <string name="a0">בחירת אפליקציה</string>
+    <string name="a1">כבוי</string>
+    <string name="a2">מופעל</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+‎</string>
+    <string name="a5">מחיקה</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">רווח</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">תפריט+</string>
+    <string name="ac">חיפוש…</string>
+    <string name="ad">מחיקת השאילתה</string>
+    <string name="ae">שאילתת חיפוש</string>
+    <string name="af">חיפוש</string>
+    <string name="ag">שליחת שאילתה</string>
+    <string name="ah">חיפוש קולי</string>
+    <string name="ai">שיתוף עם</string>
+    <string name="aj">שיתוף עם %s</string>
+    <string name="ak">כיווץ</string>
+    <string name="dn">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
+    <string name="qd">שמור את התמונה</string>
+    <string name="qe">האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?</string>
+    <string name="qf">קבל</string>
+    <string name="qg">דחה</string>
+    <string name="qh">צור אירוע ביומן</string>
+    <string name="qi">האם לאפשר למודעה ליצור אירוע ביומן?</string>
+    <string name="qj">מודעת בדיקה</string>
+    <string name="qu">חיפוש</string>
+    <string name="tg">999+</string>
+</resources>

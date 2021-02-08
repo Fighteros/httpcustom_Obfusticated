@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">गृह पृष्ठमा जानुहोस्</string>
+    <string name="w">माथि नेभिगेट गर्नुहोस्</string>
+    <string name="x">थप विकल्पहरू</string>
+    <string name="y">सम्पन्न भयो</string>
+    <string name="z">सबै हेर्नुहोस्</string>
+    <string name="a0">एउटा अनुप्रयोग छान्नुहोस्</string>
+    <string name="a1">निष्क्रिय</string>
+    <string name="a2">सक्रिय</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">खोज्नुहोस्…</string>
+    <string name="ad">क्वेरी खाली गर्नुहोस्</string>
+    <string name="ae">खोज प्रश्न</string>
+    <string name="af">खोज</string>
+    <string name="ag">क्वेरी पेस गर्नुहोस्</string>
+    <string name="ah">आवाजमा आधारित खोजी</string>
+    <string name="ai">यसमार्फत आदान प्रदान गर्नुहोस्</string>
+    <string name="aj">%s मार्फत आदान प्रदान गर्नुहोस्</string>
+    <string name="ak">संक्षिप्त गर्नुहोस्</string>
+    <string name="dn">%1$s लाई Google Play services सँग सहकार्य गर्न समस्या भइरहेको छ। कृपया फेरि प्रयास गर्नुहोस्।</string>
+    <string name="qd">छविलाई सुरक्षित गर्नुहोस्</string>
+    <string name="qe">विज्ञापनलाई तस्बिरको ग्यालरीमा छवि भण्डारण गर्न अनुमति दिने हो?</string>
+    <string name="qf">स्वीकार गर्नुहोस्</string>
+    <string name="qg">अस्वीकार गर्नुहोस्</string>
+    <string name="qh">पात्रोमा कार्यक्रम सिर्जना गर्नुहोस्</string>
+    <string name="qi">विज्ञापनलाई पात्रोमा कार्यक्रम सिर्जना गर्न अनुमति दिने हो?</string>
+    <string name="qj">परीक्षण विज्ञापन</string>
+    <string name="qu">खोज</string>
+    <string name="tg">९९९+</string>
+</resources>

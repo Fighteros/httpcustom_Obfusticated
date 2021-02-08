@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ht">0.24</dimen>
+    <dimen name="hu">0.4</dimen>
+    <dimen name="hv">0.4</dimen>
+    <dimen name="hw">0.24</dimen>
+    <dimen name="hy">0.12</dimen>
+    <dimen name="hz">0.2</dimen>
+    <dimen name="i0">0.2</dimen>
+    <dimen name="i1">0.12</dimen>
+</resources>

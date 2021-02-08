@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/ce" android:layout_width="match_parent" android:layout_height="wrap_content" app:cardCornerRadius="2dp">
+    <RelativeLayout android:background="@color/co" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@+id/gs" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:src="@drawable/flag_id" android:scaleType="center" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_marginStart="10dp" android:layout_alignParentStart="true"/>
+        <TextView android:id="@+id/nb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_toRightOf="@+id/gs" android:layout_alignTop="@+id/gs" android:layout_marginStart="5dp" android:layout_toEndOf="@+id/gs"/>
+        <TextView android:id="@+id/ne" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/nb" android:layout_alignLeft="@+id/nb" android:layout_alignStart="@+id/nb"/>
+        <TextView android:id="@+id/nn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/ne" android:layout_alignLeft="@+id/ne" android:layout_alignStart="@+id/ne"/>
+        <TextView android:id="@+id/nt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:layout_below="@+id/nn" android:layout_alignLeft="@+id/nn" android:layout_alignStart="@+id/nn"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

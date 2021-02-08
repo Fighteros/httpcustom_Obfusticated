@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">پیمایش به صفحه اصلی</string>
+    <string name="w">رفتن به بالا</string>
+    <string name="x">گزینه‌های بیشتر</string>
+    <string name="y">تمام</string>
+    <string name="z">دیدن همه</string>
+    <string name="a0">انتخاب برنامه</string>
+    <string name="a1">خاموش</string>
+    <string name="a2">روشن</string>
+    <string name="a3">‎Alt+‎</string>
+    <string name="a4">‎Ctrl+‎</string>
+    <string name="a5">حذف</string>
+    <string name="a6">enter</string>
+    <string name="a7">‎Function+‎</string>
+    <string name="a8">‎Meta+‎</string>
+    <string name="a9">‎Shift+‎</string>
+    <string name="a_">فاصله</string>
+    <string name="aa">‎Sym+‎</string>
+    <string name="ab">منو+</string>
+    <string name="ac">جستجو…‏</string>
+    <string name="ad">پاک کردن پُرسمان</string>
+    <string name="ae">درخواست جستجو</string>
+    <string name="af">جستجو</string>
+    <string name="ag">ارسال پُرسمان</string>
+    <string name="ah">جستجوی گفتاری</string>
+    <string name="ai">هم‌رسانی با</string>
+    <string name="aj">هم‌رسانی با %s</string>
+    <string name="ak">کوچک کردن</string>
+    <string name="dn">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="qd">ذخیره تصویر</string>
+    <string name="qe">به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟</string>
+    <string name="qf">پذیرفتن</string>
+    <string name="qg">نپذیرفتن</string>
+    <string name="qh">ایجاد رویداد تقویم</string>
+    <string name="qi">به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</string>
+    <string name="qj">آگهی آزمایشی</string>
+    <string name="qu">جستجو</string>
+    <string name="tg">999+</string>
+</resources>

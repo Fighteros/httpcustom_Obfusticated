@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="@dimen/bf" android:paddingTop="@dimen/bg" android:paddingRight="@dimen/bf" android:paddingBottom="@dimen/bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="18sp" android:textStyle="bold" android:id="@+id/oh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rn" android:layout_alignParentLeft="true" android:layout_alignParentTop="true"/>
+    <ImageView android:id="@+id/dg" android:background="@drawable/ap" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true" app:srcCompat="@drawable/el"/>
+    <View android:id="@+id/aw" android:background="@android:color/darker_gray" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="5dp" android:layout_below="@+id/oh"/>
+    <com.google.android.material.textfield.TextInputLayout android:id="@+id/hj" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:layout_below="@+id/aw" app:passwordToggleEnabled="false">
+        <EditText android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="top|left|center_vertical|center_horizontal|center|start" android:id="@+id/oe" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/u8" android:inputType="number"/>
+    </com.google.android.material.textfield.TextInputLayout>
+    <Button android:textColor="@color/b5" android:id="@+id/mr" android:background="@drawable/am" android:layout_width="match_parent" android:layout_height="40dp" android:layout_marginTop="10dp" android:text="@string/ch" android:layout_below="@+id/hj" android:layout_alignParentLeft="true" android:layout_alignParentRight="true"/>
+</RelativeLayout>

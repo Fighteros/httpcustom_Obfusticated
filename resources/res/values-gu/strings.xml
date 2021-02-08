@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">ઘરનો રસ્તો બતાવો</string>
+    <string name="w">ઉપર નૅવિગેટ કરો</string>
+    <string name="x">વધુ વિકલ્પો</string>
+    <string name="y">થઈ ગયું</string>
+    <string name="z">બધી જુઓ</string>
+    <string name="a0">ઍપ્લિકેશન પસંદ કરો</string>
+    <string name="a1">બંધ</string>
+    <string name="a2">ચાલુ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">શોધો…</string>
+    <string name="ad">ક્વેરી સાફ કરો</string>
+    <string name="ae">શોધ ક્વેરી</string>
+    <string name="af">શોધો</string>
+    <string name="ag">ક્વેરી સબમિટ કરો</string>
+    <string name="ah">વૉઇસ શોધ</string>
+    <string name="ai">આની સાથે શેર કરો</string>
+    <string name="aj">%sની સાથે શેર કરો</string>
+    <string name="ak">સંકુચિત કરો</string>
+    <string name="dn">%1$s ને Google Play સેવાઓમાં મુશ્કેલી આવી રહી છે. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="qd">છબી સાચવો</string>
+    <string name="qe">જાહેરાતને ચિત્ર ગૅલેરીમાં છબી સંગ્રહિત કરવાની મંજૂરી આપીએ?</string>
+    <string name="qf">સ્વીકારો</string>
+    <string name="qg">નકારો</string>
+    <string name="qh">કૅલેન્ડર ઇવેન્ટ બનાવો</string>
+    <string name="qi">જાહેરાતને કૅલેન્ડર ઇવેન્ટ બનાવવાની મંજૂરી આપીએ?</string>
+    <string name="qj">પરીક્ષણની જાહેરાત</string>
+    <string name="qu">શોધો</string>
+    <string name="tg">999+</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="h">
+        <item>按小时重复</item>
+        <item>按天重复</item>
+        <item>按星期重复</item>
+        <item>按月份重复</item>
+        <item>按年份重复</item>
+    </array>
+    <array name="i">
+        <item>每月第一个周五</item>
+        <item>每月第二个周五</item>
+        <item>每月第三个周五</item>
+        <item>每月第四个周五</item>
+        <item>每月最后一个周五</item>
+    </array>
+    <array name="j">
+        <item>每月第一个周一</item>
+        <item>每月第二个周一</item>
+        <item>每月第三个周一</item>
+        <item>每月第四个周一</item>
+        <item>每月最后一个周一</item>
+    </array>
+    <array name="k">
+        <item>每月第一个周六</item>
+        <item>每月第二个周六</item>
+        <item>每月第三个周六</item>
+        <item>每月第四个周六</item>
+        <item>每月最后一个周六</item>
+    </array>
+    <array name="l">
+        <item>每月第一个周日</item>
+        <item>每月第二个周日</item>
+        <item>每月第三个周日</item>
+        <item>每月第四个周日</item>
+        <item>每月最后一个周日</item>
+    </array>
+    <array name="m">
+        <item>每月第一个周四</item>
+        <item>每月第二个周四</item>
+        <item>每月第三个周四</item>
+        <item>每月第四个周四</item>
+        <item>每月最后一个周四</item>
+    </array>
+    <array name="n">
+        <item>每月第一个周二</item>
+        <item>每月第二个周二</item>
+        <item>每月第三个周二</item>
+        <item>每月第四个周二</item>
+        <item>每月最后一个周二</item>
+    </array>
+    <array name="o">
+        <item>每月第一个周三</item>
+        <item>每月第二个周三</item>
+        <item>每月第三个周三</item>
+        <item>每月第四个周三</item>
+        <item>每月最后一个周三</item>
+    </array>
+</resources>

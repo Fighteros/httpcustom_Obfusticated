@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Vai ao inicio</string>
+    <string name="w">Vai cara arriba</string>
+    <string name="x">Máis opcións</string>
+    <string name="y">Feito</string>
+    <string name="z">Ver todo</string>
+    <string name="a0">Selecciona unha aplicación</string>
+    <string name="a1">DESACTIVAR</string>
+    <string name="a2">ACTIVAR</string>
+    <string name="a3">Alt +</string>
+    <string name="a4">Ctrl +</string>
+    <string name="a5">eliminar</string>
+    <string name="a6">intro</string>
+    <string name="a7">Función +</string>
+    <string name="a8">Meta +</string>
+    <string name="a9">Maiús +</string>
+    <string name="a_">espazo</string>
+    <string name="aa">Sym +</string>
+    <string name="ab">Menú +</string>
+    <string name="ac">Busca…</string>
+    <string name="ad">Borra a consulta</string>
+    <string name="ae">Busca a consulta</string>
+    <string name="af">Realiza buscas</string>
+    <string name="ag">Envía a consulta</string>
+    <string name="ah">Busca por voz</string>
+    <string name="ai">Comparte contido con</string>
+    <string name="aj">Comparte contido coa aplicación %s</string>
+    <string name="ak">Contrae</string>
+    <string name="dn">%1$s ten problemas cos servizos de Google Play. Téntao de novo.</string>
+    <string name="qd">Gardar imaxe</string>
+    <string name="qe">Queres permitir que o anuncio almacene imaxes na galería de imaxes?</string>
+    <string name="qf">Aceptar</string>
+    <string name="qg">Rexeitar</string>
+    <string name="qh">Crear evento do calendario</string>
+    <string name="qi">Queres permitir que o anuncio cree un evento do calendario?</string>
+    <string name="qj">Probar anuncio</string>
+    <string name="qu">Buscar</string>
+    <string name="tg">&gt;999</string>
+</resources>

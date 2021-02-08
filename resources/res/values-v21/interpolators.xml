@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <interpolator name="h">r/a2/h.xml</interpolator>
+    <interpolator name="i">r/a2/i.xml</interpolator>
+    <interpolator name="k">r/a2/k.xml</interpolator>
+</resources>

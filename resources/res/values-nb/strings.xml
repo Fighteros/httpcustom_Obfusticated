@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Naviger hjem</string>
+    <string name="w">Gå opp</string>
+    <string name="x">Flere alternativer</string>
+    <string name="y">Ferdig</string>
+    <string name="z">Se alle</string>
+    <string name="a0">Velg en app</string>
+    <string name="a1">AV</string>
+    <string name="a2">PÅ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">slett</string>
+    <string name="a6">enter</string>
+    <string name="a7">Funksjon+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">mellomrom</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Meny+</string>
+    <string name="ac">Søk</string>
+    <string name="ad">Slett søket</string>
+    <string name="ae">Søkeord</string>
+    <string name="af">Søk</string>
+    <string name="ag">Utfør søket</string>
+    <string name="ah">Talesøk</string>
+    <string name="ai">Del med</string>
+    <string name="aj">Del med %s</string>
+    <string name="ak">Skjul</string>
+    <string name="dn">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="qd">Lagre bilde</string>
+    <string name="qe">Vil du la annonsen lagre bildet i bildegalleriet?</string>
+    <string name="qf">Godta</string>
+    <string name="qg">Avslå</string>
+    <string name="qh">Opprett kalenderaktivitet</string>
+    <string name="qi">Vil du la annonsen opprette en kalenderaktivitet?</string>
+    <string name="qj">Testannonse</string>
+    <string name="qu">Søk</string>
+    <string name="tg">999+</string>
+</resources>

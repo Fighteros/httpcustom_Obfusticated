@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">መነሻ ዳስስ</string>
+    <string name="w">ወደ ላይ ያስሱ</string>
+    <string name="x">ተጨማሪ አማራጮች</string>
+    <string name="y">ተከናውኗል</string>
+    <string name="z">ሁሉንም ይመልከቱ</string>
+    <string name="a0">አንድ መተግበሪያ ይምረጡ</string>
+    <string name="a1">አጥፋ</string>
+    <string name="a2">አብራ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">ሰርዝ</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">ክፍተት</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">ይፈልጉ…</string>
+    <string name="ad">መጠይቅ አጽዳ</string>
+    <string name="ae">የፍለጋ መጠይቅ</string>
+    <string name="af">ፍለጋ</string>
+    <string name="ag">መጠይቅ አስገባ</string>
+    <string name="ah">የድምጽ ፍለጋ</string>
+    <string name="ai">አጋራ በ</string>
+    <string name="aj">ለ%s አጋራ</string>
+    <string name="ak">ሰብስብ</string>
+    <string name="dn">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="qd">ምስል አስቀምጥ</string>
+    <string name="qe">ማስታወቂያ ምስሉን በስዕል ማእከለ-ሥዕላት ውስጥ እንዲያከማች ይፈቀድለት?</string>
+    <string name="qf">ተቀበል</string>
+    <string name="qg">ውድቅ አድርግ</string>
+    <string name="qh">የቀን መቁጠሪያ ክስተት ፍጠር</string>
+    <string name="qi">ማስታወቂያ የቀን መቁጠሪያ ክስተት እንዲፈጥር ይፈቀድለት?</string>
+    <string name="qj">የሙከራ ማስታወቂያ</string>
+    <string name="qu">ፍለጋ</string>
+    <string name="tg">999+</string>
+</resources>

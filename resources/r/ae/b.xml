@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/n6" android:orderInCategory="0" android:title="@string/tu" app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/n7" android:orderInCategory="0" android:title="@string/tv" android:checkable="true" app:showAsAction="never"/>
+            <item android:id="@+id/n8" android:orderInCategory="1" android:title="@string/tw" android:checkable="true" app:showAsAction="never"/>
+            <item android:id="@+id/b5" android:orderInCategory="2" android:title="@string/ax" android:checkable="true" app:showAsAction="never"/>
+            <item android:id="@+id/b6" android:orderInCategory="3" android:title="@string/ay" android:checkable="true" app:showAsAction="never"/>
+        </menu>
+    </item>
+    <item android:orderInCategory="1" android:title="Ping Utility" app:showAsAction="never">
+        <menu>
+            <item android:id="@+id/bt" android:orderInCategory="0" android:title="@string/c0" android:checkable="true" app:showAsAction="never"/>
+            <item android:id="@+id/bu" android:orderInCategory="1" android:title="@string/c1" android:checkable="true" app:showAsAction="never"/>
+        </menu>
+    </item>
+    <item android:icon="@drawable/bq" android:id="@+id/cl" android:orderInCategory="2" android:title="@string/b1" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/bl" android:id="@+id/p9" android:orderInCategory="3" android:title="@string/at" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/b6" android:id="@+id/g5" android:orderInCategory="4" android:title="@string/b2" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/at" android:orderInCategory="96" android:title="@string/ap" app:showAsAction="never"/>
+    <item android:id="@+id/b8" android:orderInCategory="98" android:title="@string/rn" app:showAsAction="never"/>
+    <item android:id="@+id/ay" android:orderInCategory="99" android:title="@string/i9" app:showAsAction="never"/>
+    <item android:id="@+id/ax" android:orderInCategory="100" android:title="@string/as" app:showAsAction="never"/>
+</menu>

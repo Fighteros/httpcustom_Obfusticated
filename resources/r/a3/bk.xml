@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team.dev.epro.apkcustom.widgets.CustomTextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="@color/b5" android:textColorLink="@color/b2" android:autoLink="web" android:linksClickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"/>

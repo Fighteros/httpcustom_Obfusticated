@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dk">
+        <item name="b6">18.66dp</item>
+        <item name="gs">24dp</item>
+        <item name="j5">3.33dp</item>
+    </style>
+</resources>

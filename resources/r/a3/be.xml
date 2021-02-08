@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/fv" layout="@layout/dl"/>
+    <include android:id="@+id/lm" layout="@layout/dl"/>
+    <include android:id="@+id/o5" layout="@layout/dl"/>
+    <include android:id="@+id/g0" layout="@layout/dl"/>
+</LinearLayout>

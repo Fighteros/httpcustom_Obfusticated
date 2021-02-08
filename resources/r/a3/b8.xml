@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="@dimen/bf" android:paddingTop="@dimen/bg" android:paddingRight="@dimen/bf" android:paddingBottom="@dimen/bg" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/bn">
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout android:id="@+id/mt" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/kr" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    <TextView android:textSize="18sp" android:gravity="center" android:layout_gravity="center" android:id="@+id/p_" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/bg" android:text="@string/re"/>
+    <include layout="@layout/bj"/>
+    <include layout="@layout/bl"/>
+</FrameLayout>

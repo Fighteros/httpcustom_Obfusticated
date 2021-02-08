@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Krmarjenje na začetek</string>
+    <string name="w">Pomik navzgor</string>
+    <string name="x">Več možnosti</string>
+    <string name="y">Končano</string>
+    <string name="z">Pokaži vse</string>
+    <string name="a0">Izbira aplikacije</string>
+    <string name="a1">IZKLOP</string>
+    <string name="a2">VKLOP</string>
+    <string name="a3">Alt +</string>
+    <string name="a4">Ctrl +</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Fn +</string>
+    <string name="a8">Meta +</string>
+    <string name="a9">Shift +</string>
+    <string name="a_">preslednica</string>
+    <string name="aa">Sym +</string>
+    <string name="ab">Meni +</string>
+    <string name="ac">Iskanje …</string>
+    <string name="ad">Izbris poizvedbe</string>
+    <string name="ae">Iskalna poizvedba</string>
+    <string name="af">Iskanje</string>
+    <string name="ag">Pošiljanje poizvedbe</string>
+    <string name="ah">Glasovno iskanje</string>
+    <string name="ai">Skupna raba z:</string>
+    <string name="aj">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="ak">Strnitev</string>
+    <string name="dn">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+    <string name="qd">Shranjevanje slike</string>
+    <string name="qe">Ali dovolite, da oglas shrani sliko v galerijo slik?</string>
+    <string name="qf">Sprejmi</string>
+    <string name="qg">Zavrni</string>
+    <string name="qh">Ustvarjanje koledarskega dogodka</string>
+    <string name="qi">Ali dovolite, da oglas ustvari koledarski dogodek?</string>
+    <string name="qj">Preizkusni oglas</string>
+    <string name="qu">Iskanje</string>
+    <string name="tg">999+</string>
+</resources>

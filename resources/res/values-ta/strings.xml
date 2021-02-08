@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">முகப்பிற்குச் செல்லும்</string>
+    <string name="w">மேலே செல்லும்</string>
+    <string name="x">மேலும் விருப்பங்கள்</string>
+    <string name="y">முடிந்தது</string>
+    <string name="z">அனைத்தையும் காட்டு</string>
+    <string name="a0">ஆப்ஸைத் தேர்வுசெய்க</string>
+    <string name="a1">ஆஃப்</string>
+    <string name="a2">ஆன்</string>
+    <string name="a3">Alt மற்றும்</string>
+    <string name="a4">Ctrl மற்றும்</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function மற்றும்</string>
+    <string name="a8">Meta மற்றும்</string>
+    <string name="a9">Shift மற்றும்</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym மற்றும்</string>
+    <string name="ab">Menu மற்றும்</string>
+    <string name="ac">தேடுக…</string>
+    <string name="ad">வினவலை அழிக்கும்</string>
+    <string name="ae">தேடல் வினவல்</string>
+    <string name="af">தேடும்</string>
+    <string name="ag">வினவலைச் சமர்ப்பிக்கும்</string>
+    <string name="ah">குரல் தேடல்</string>
+    <string name="ai">இதில் பகிர்</string>
+    <string name="aj">%s மூலம் பகிர்</string>
+    <string name="ak">சுருக்கும்</string>
+    <string name="dn">Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், %1$s பயன்பாட்டை அணுக முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="qd">படத்தைச் சேமி</string>
+    <string name="qe">பட கேலரியில் படத்தைச் சேமிக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
+    <string name="qf">அனுமதி</string>
+    <string name="qg">நிராகரி</string>
+    <string name="qh">கேலெண்டர் நிகழ்வை உருவாக்கு</string>
+    <string name="qi">கேலெண்டர் நிகழ்வை உருவாக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
+    <string name="qj">சோதனை விளம்பரம்</string>
+    <string name="qu">தேடல்</string>
+    <string name="tg">999+</string>
+</resources>

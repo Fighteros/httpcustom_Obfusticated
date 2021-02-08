@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">హోమ్‌కు నావిగేట్ చేస్తుంది</string>
+    <string name="w">పైకి నావిగేట్ చేస్తుంది</string>
+    <string name="x">మరిన్ని ఎంపికలు</string>
+    <string name="y">పూర్తయింది</string>
+    <string name="z">అన్నీ చూడండి</string>
+    <string name="a0">యాప్‌ను ఎంచుకోండి</string>
+    <string name="a1">ఆఫ్</string>
+    <string name="a2">ఆన్</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">స్పేస్</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">వెతకండి…</string>
+    <string name="ad">ప్రశ్నను తీసివేస్తుంది</string>
+    <string name="ae">శోధన ప్రశ్న</string>
+    <string name="af">శోధన</string>
+    <string name="ag">ప్రశ్నని సమర్పిస్తుంది</string>
+    <string name="ah">వాయిస్ శోధన</string>
+    <string name="ai">వీరితో షేర్ చేస్తుంది</string>
+    <string name="aj">%sతో షేర్ చేస్తుంది</string>
+    <string name="ak">కుదిస్తుంది</string>
+    <string name="dn">%1$s Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="qd">చిత్రాన్ని సేవ్ చేయి</string>
+    <string name="qe">చిత్ర గ్యాలరీలో చిత్రాన్ని నిల్వ చేయడానికి ప్రకటనను అనుమతించాలా?</string>
+    <string name="qf">అనుమతించు</string>
+    <string name="qg">తిరస్కరించు</string>
+    <string name="qh">క్యాలెండర్ ఈవెంట్‌ను సృష్టించు</string>
+    <string name="qi">క్యాలెండర్ ఈవెంట్‌ను సృష్టించడానికి ప్రకటనను అనుమతించాలా?</string>
+    <string name="qj">ప్రకటనను పరీక్షించండి</string>
+    <string name="qu">శోధన</string>
+    <string name="tg">999+</string>
+</resources>

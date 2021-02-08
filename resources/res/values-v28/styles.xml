@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="b_">
+    </style>
+    <style name="bg">
+    </style>
+    <style name="cq">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/py</item>
+        <item name="?0x1010571">@null</item>
+        <item name="ad">@style/f7</item>
+        <item name="cy">@style/pq</item>
+        <item name="cz">@style/pq</item>
+        <item name="d0">@style/pr</item>
+        <item name="d1">@style/pq</item>
+        <item name="n0">@style/f8</item>
+    </style>
+    <style name="so">
+        <item name="gg">?unknown_attr_ref: 1010571</item>
+    </style>
+    <style name="sp">
+        <item name="gg">?unknown_attr_ref: 1010571</item>
+    </style>
+</resources>

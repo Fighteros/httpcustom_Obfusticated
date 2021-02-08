@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Orientohu për në shtëpi</string>
+    <string name="w">Ngjitu lart</string>
+    <string name="x">Opsione të tjera</string>
+    <string name="y">U krye</string>
+    <string name="z">Shfaq çdo gjë</string>
+    <string name="a0">Zgjidh një aplikacion</string>
+    <string name="a1">JOAKTIV</string>
+    <string name="a2">AKTIV</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Funksioni+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">hapësirë</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menyja+</string>
+    <string name="ac">Kërko…</string>
+    <string name="ad">Pastro pyetjen</string>
+    <string name="ae">Kërko pyetjen</string>
+    <string name="af">Kërko</string>
+    <string name="ag">Dërgo pyetjen</string>
+    <string name="ah">Kërkim me zë</string>
+    <string name="ai">Ndaje me</string>
+    <string name="aj">Ndaje me %s</string>
+    <string name="ak">Palos</string>
+    <string name="dn">%1$s ka probleme me shërbimet e Google Play. Provo sërish.</string>
+    <string name="qd">Ruaje imazhin</string>
+    <string name="qe">Të lejohet që reklama të ruajë imazhin në \"Galerinë e fotografive\"?</string>
+    <string name="qf">Prano</string>
+    <string name="qg">Refuzo</string>
+    <string name="qh">Krijo një ngjarje në kalendar</string>
+    <string name="qi">Të lejohet që reklama të krijojë një ngjarje në kalendar?</string>
+    <string name="qj">Reklamë test</string>
+    <string name="qu">Kërko</string>
+    <string name="tg">999+</string>
+</resources>

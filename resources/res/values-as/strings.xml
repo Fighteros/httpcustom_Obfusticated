@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">গৃহ পৃষ্ঠালৈ যাওক</string>
+    <string name="w">ওপৰলৈ যাওক</string>
+    <string name="x">অধিক বিকল্প</string>
+    <string name="y">সম্পন্ন হ’ল</string>
+    <string name="z">সকলো চাওক</string>
+    <string name="a0">কোনো এপ্ বাছনি কৰক</string>
+    <string name="a1">অফ</string>
+    <string name="a2">অন</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">সন্ধান কৰক…</string>
+    <string name="ad">সন্ধান কৰা প্ৰশ্ন মচক</string>
+    <string name="ae">সন্ধান কৰা প্ৰশ্ন</string>
+    <string name="af">সন্ধান</string>
+    <string name="ag">প্ৰশ্ন দাখিল কৰক</string>
+    <string name="ah">কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান</string>
+    <string name="ai">ইয়াৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+    <string name="aj">%sৰ জৰিয়তে শ্বেয়াৰ কৰক</string>
+    <string name="ak">সংকোচন কৰক</string>
+    <string name="qu">সন্ধান</string>
+    <string name="tg">৯৯৯+</string>
+</resources>

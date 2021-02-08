@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Mag-navigate sa home</string>
+    <string name="w">Mag-navigate pataas</string>
+    <string name="x">Higit pang opsyon</string>
+    <string name="y">Tapos na</string>
+    <string name="z">Tingnan lahat</string>
+    <string name="a0">Pumili ng app</string>
+    <string name="a1">I-OFF</string>
+    <string name="a2">I-ON</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Maghanap…</string>
+    <string name="ad">I-clear ang query</string>
+    <string name="ae">Query sa paghahanap</string>
+    <string name="af">Maghanap</string>
+    <string name="ag">Isumite ang query</string>
+    <string name="ah">Paghahanap gamit ang boses</string>
+    <string name="ai">Ibahagi sa/kay</string>
+    <string name="aj">Ibahagi gamit ang %s</string>
+    <string name="ak">I-collapse</string>
+    <string name="dn">Nagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukang muli.</string>
+    <string name="qd">I-save ang larawan</string>
+    <string name="qe">Pahintulutan ang Ad na iimbak ang larawan sa Gallery ng larawan?</string>
+    <string name="qf">Tanggapin</string>
+    <string name="qg">Tanggihan</string>
+    <string name="qh">Gumawa ng event sa kalendaryo</string>
+    <string name="qi">Pahintulutan ang Ad na gumawa ng event sa kalendaryo?</string>
+    <string name="qj">Pansubok na Ad</string>
+    <string name="qu">Maghanap</string>
+    <string name="tg">999+</string>
+</resources>

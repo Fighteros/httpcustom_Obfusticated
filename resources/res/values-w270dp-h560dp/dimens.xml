@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="j9">230dp</dimen>
+    <dimen name="j_">100dp</dimen>
+    <dimen name="ja">30dp</dimen>
+    <dimen name="jb">30dp</dimen>
+</resources>

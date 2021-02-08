@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="cw">r/a0/cw.png</drawable>
+    <drawable name="cx">r/a0/cx.png</drawable>
+    <drawable name="cy">r/a0/cy.png</drawable>
+    <drawable name="cz">r/a0/cz.png</drawable>
+    <drawable name="d0">r/a0/d0.9.png</drawable>
+    <drawable name="d1">r/a0/d1.9.png</drawable>
+    <drawable name="d4">r/a0/d4.png</drawable>
+    <drawable name="d5">r/a0/d5.png</drawable>
+    <drawable name="d6">r/a0/d6.png</drawable>
+    <drawable name="d7">r/a0/d7.png</drawable>
+    <drawable name="d8">r/a0/d8.png</drawable>
+    <drawable name="d9">r/a0/d9.png</drawable>
+    <drawable name="d_">r/a0/d_.png</drawable>
+    <drawable name="da">r/a0/da.png</drawable>
+    <drawable name="db">r/a0/db.png</drawable>
+    <drawable name="dc">r/a0/dc.png</drawable>
+    <drawable name="dd">r/a0/dd.png</drawable>
+    <drawable name="do">r/a0/do.png</drawable>
+    <drawable name="dp">r/a0/dp.png</drawable>
+    <drawable name="ds">r/a0/ds.9.png</drawable>
+    <drawable name="dt">r/a0/dt.9.png</drawable>
+    <drawable name="du">r/a0/du.9.png</drawable>
+    <drawable name="dv">r/a0/dv.png</drawable>
+    <drawable name="dw">r/a0/dw.png</drawable>
+    <drawable name="dz">r/a0/dz.png</drawable>
+    <drawable name="e0">r/a0/e0.png</drawable>
+    <drawable name="e5">r/a0/e5.png</drawable>
+    <drawable name="e6">r/a0/e6.png</drawable>
+    <drawable name="ew">r/a0/ew.png</drawable>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/bg" android:paddingLeft="@dimen/bf" android:paddingTop="@dimen/bg" android:paddingRight="@dimen/bf" android:paddingBottom="@dimen/bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:scrollbarStyle="outsideOverlay" android:layout_width="match_parent" android:layout_height="match_parent">
+        <EditText android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/dk" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </ScrollView>
+    <com.github.clans.fab.FloatingActionMenu android:id="@+id/fg" android:paddingLeft="10dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" app:menu_backgroundColor="#ccffffff" app:menu_colorNormal="@color/b2" app:menu_colorPressed="@color/b4" app:menu_labels_ellipsize="3" app:menu_labels_singleLine="true" app:menu_shadowColor="#ff444444">
+        <com.github.clans.fab.FloatingActionButton android:id="@+id/fj" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ev" app:fab_colorNormal="@color/b2" app:fab_colorPressed="@color/b4" app:fab_label="@string/rr" app:fab_size="1"/>
+        <com.github.clans.fab.FloatingActionButton android:id="@+id/ff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/et" app:fab_colorNormal="@color/b2" app:fab_colorPressed="@color/b4" app:fab_label="@string/qn" app:fab_size="1"/>
+    </com.github.clans.fab.FloatingActionMenu>
+</RelativeLayout>

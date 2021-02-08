@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">ਹੋਮ \'ਤੇ ਜਾਓ</string>
+    <string name="w">ਉੱਪਰ ਜਾਓ</string>
+    <string name="x">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="y">ਹੋ ਗਿਆ</string>
+    <string name="z">ਸਭ ਦੇਖੋ</string>
+    <string name="a0">ਇੱਕ ਐਪ ਚੁਣੋ</string>
+    <string name="a1">ਬੰਦ</string>
+    <string name="a2">ਚਾਲੂ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">ਮਿਟਾਓ</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">ਖੋਜ…</string>
+    <string name="ad">ਪੁੱਛਗਿੱਛ ਕਲੀਅਰ ਕਰੋ</string>
+    <string name="ae">ਖੋਜ ਪੁੱਛਗਿੱਛ</string>
+    <string name="af">ਖੋਜ</string>
+    <string name="ag">ਪੁੱਛਗਿੱਛ ਸਪੁਰਦ ਕਰੋ</string>
+    <string name="ah">ਅਵਾਜ਼ੀ ਖੋਜ</string>
+    <string name="ai">ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="aj">%s ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="ak">ਸਮੇਟੋ</string>
+    <string name="dn">%1$s ਨੂੰ Google Play ਸੇਵਾਵਾਂ ਨਾਲ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="qd">ਚਿੱਤਰ ਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="qe">ਕੀ ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਤਸਵੀਰ ਗੈਲਰੀ ਵਿੱਚ ਚਿੱਤਰ ਸਟੋਰ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?</string>
+    <string name="qf">ਸਵੀਕਾਰ ਕਰੋ</string>
+    <string name="qg">ਅਸਵੀਕਾਰ ਕਰੋ</string>
+    <string name="qh">ਕੈਲੰਡਰ ਵਰਤਾਰਾ ਬਣਾਓ</string>
+    <string name="qi">ਕੀ ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਇੱਕ ਕੈਲੰਡਰ ਵਰਤਾਰਾ ਬਣਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?</string>
+    <string name="qj">ਟੈਸਟ ਇਸ਼ਤਿਹਾਰ</string>
+    <string name="qu">ਖੋਜ</string>
+    <string name="tg">999+</string>
+</resources>

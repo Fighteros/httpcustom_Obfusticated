@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Негізгі бетке өту</string>
+    <string name="w">Жоғары қарай өту</string>
+    <string name="x">Басқа опциялар</string>
+    <string name="y">Дайын</string>
+    <string name="z">Барлығын көру</string>
+    <string name="a0">Қолданбаны таңдау</string>
+    <string name="a1">ӨШІРУ</string>
+    <string name="a2">ҚОСУ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">бос орын</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Іздеу…</string>
+    <string name="ad">Сұрауды өшіру</string>
+    <string name="ae">Іздеу сұрауы</string>
+    <string name="af">Іздеу</string>
+    <string name="ag">Сұрауды жіберу</string>
+    <string name="ah">Дауыспен іздеу</string>
+    <string name="ai">Бөлісу</string>
+    <string name="aj">%s қолданбасымен бөлісу</string>
+    <string name="ak">Жию</string>
+    <string name="dn">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="qd">Кескінді сақтау</string>
+    <string name="qe">Жарнамаға кескінді сурет галереясында сақтауға рұқсат берілсін бе?</string>
+    <string name="qf">Қабылдау</string>
+    <string name="qg">Қабылдамау</string>
+    <string name="qh">Күнтізбе оқиғасын жасау</string>
+    <string name="qi">Жарнамаға күнтізбе оқиғасын жасауға рұқсат берілсін бе?</string>
+    <string name="qj">Сынақ жарнама</string>
+    <string name="qu">Іздеу</string>
+    <string name="tg">999+</string>
+</resources>

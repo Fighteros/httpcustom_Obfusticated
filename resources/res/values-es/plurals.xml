@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Diario</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">; %d veces</item>
+        <item quantity="one">; una vez</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Por %d veces</item>
+        <item quantity="one">Por %d veces</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Cada %d día</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Cada %d meses</item>
+        <item quantity="one">Cada %d mes</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Cada %d semanas</item>
+        <item quantity="one">Cada %d semana</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">Cada %d años</item>
+        <item quantity="one">Cada %d año</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Cada %1$d semanas los %2$s</item>
+        <item quantity="one">Semanal los %2$s</item>
+    </plurals>
+</resources>

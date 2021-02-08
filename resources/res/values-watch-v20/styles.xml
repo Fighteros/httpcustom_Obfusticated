@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bb">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="bi">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="c_">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+</resources>

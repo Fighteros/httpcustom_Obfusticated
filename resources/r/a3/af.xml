@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:id="@+id/ea" android:background="@color/af" android:layout_width="@dimen/bz" android:layout_height="wrap_content" android:layout_weight="1">
+    <com.codetroopers.betterpickers.widget.AccessibleLinearLayout android:textColor="@color/b6" android:layout_gravity="center" android:orientation="vertical" android:id="@+id/e8" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/ja" android:textColor="@color/b6" android:gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/e7" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:includeFontPadding="false"/>
+        <TextView android:textSize="@dimen/j_" android:textColor="@color/b6" android:gravity="center" android:layout_gravity="center" android:id="@+id/e5" android:duplicateParentState="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="-10dp" android:layout_marginBottom="-10dp" android:includeFontPadding="false"/>
+    </com.codetroopers.betterpickers.widget.AccessibleLinearLayout>
+    <com.codetroopers.betterpickers.widget.AccessibleTextView android:textSize="@dimen/jb" android:textColor="@color/b6" android:gravity="top|center_vertical|center_horizontal|center" android:layout_gravity="center" android:id="@+id/e9" android:layout_width="match_parent" android:layout_height="wrap_content" android:includeFontPadding="false"/>
+</LinearLayout>

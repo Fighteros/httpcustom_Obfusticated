@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Tous les %d jours</item>
+        <item quantity="one">Quotidien</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">; pour %d fois</item>
+        <item quantity="one">; pour une fois</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Tous les %1$d mois %2$s</item>
+        <item quantity="one">Mensuel %2$s</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Pour %d événements</item>
+        <item quantity="one">Pour %d événement</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Tous les %d jours</item>
+        <item quantity="one">Tous les %d jour</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Tous les %d mois</item>
+        <item quantity="one">Tous les %d mois</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Toutes les %d semaines</item>
+        <item quantity="one">Toutes les %d semaine</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">Toutes les %d années</item>
+        <item quantity="one">Toutes les %d année</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Toutes les %1$d semaines le %2$s</item>
+        <item quantity="one">Hebdomadaire le %2$s</item>
+    </plurals>
+    <plurals name="q">
+        <item quantity="other">Tous les %1$d ans %2$s</item>
+        <item quantity="one">Annuel %2$s</item>
+    </plurals>
+</resources>

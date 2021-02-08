@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Fara heim</string>
+    <string name="w">Fara upp</string>
+    <string name="x">Fleiri valkostir</string>
+    <string name="y">Lokið</string>
+    <string name="z">Sjá allt</string>
+    <string name="a0">Veldu forrit</string>
+    <string name="a1">SLÖKKT</string>
+    <string name="a2">KVEIKT</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">eyða</string>
+    <string name="a6">enter</string>
+    <string name="a7">Aðgerðarlykill+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">bilslá</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Valmynd+</string>
+    <string name="ac">Leita…</string>
+    <string name="ad">Hreinsa fyrirspurn</string>
+    <string name="ae">Leitarfyrirspurn</string>
+    <string name="af">Leit</string>
+    <string name="ag">Senda fyrirspurn</string>
+    <string name="ah">Raddleit</string>
+    <string name="ai">Deila með</string>
+    <string name="aj">Deila með %s</string>
+    <string name="ak">Minnka</string>
+    <string name="dn">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
+    <string name="qd">Vista mynd</string>
+    <string name="qe">Leyfa auglýsingu að vista mynd í myndasafninu?</string>
+    <string name="qf">Samþykkja</string>
+    <string name="qg">Hafna</string>
+    <string name="qh">Búa til dagatalsviðburð</string>
+    <string name="qi">Leyfa auglýsingu að búa til dagatalsviðburð?</string>
+    <string name="qj">Prófa auglýsingu</string>
+    <string name="qu">Leit</string>
+    <string name="tg">999+</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Find hjem</string>
+    <string name="w">Gå op</string>
+    <string name="x">Flere valgmuligheder</string>
+    <string name="y">Udfør</string>
+    <string name="z">Se alle</string>
+    <string name="a0">Vælg en app</string>
+    <string name="a1">FRA</string>
+    <string name="a2">TIL</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">slet</string>
+    <string name="a6">enter</string>
+    <string name="a7">Fn+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">mellemrum</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Søg…</string>
+    <string name="ad">Ryd forespørgsel</string>
+    <string name="ae">Søgeforespørgsel</string>
+    <string name="af">Søg</string>
+    <string name="ag">Indsend forespørgsel</string>
+    <string name="ah">Talesøgning</string>
+    <string name="ai">Del med</string>
+    <string name="aj">Del med %s</string>
+    <string name="ak">Skjul</string>
+    <string name="dn">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="qd">Gem billede</string>
+    <string name="qe">Vil du tillade, at annoncen gemmer billedet i Galleri?</string>
+    <string name="qf">Acceptér</string>
+    <string name="qg">Afvis</string>
+    <string name="qh">Opret kalenderbegivenhed</string>
+    <string name="qi">Vil du tillade, at annoncen opretter en kalenderbegivenhed?</string>
+    <string name="qj">Testannonce</string>
+    <string name="qu">Søg</string>
+    <string name="tg">999+</string>
+</resources>

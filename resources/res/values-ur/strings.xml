@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">گھر کی طرف نیویگیٹ کریں</string>
+    <string name="w">اوپر نیویگیٹ کریں</string>
+    <string name="x">مزید اختیارات</string>
+    <string name="y">ہو گیا</string>
+    <string name="z">سبھی دیکھیں</string>
+    <string name="a0">ایک ایپ منتخب کریں</string>
+    <string name="a1">آف</string>
+    <string name="a2">آن</string>
+    <string name="a3">Alt+‎</string>
+    <string name="a4">Ctrl+‎</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+‎</string>
+    <string name="a8">Meta+‎</string>
+    <string name="a9">Shift+‎</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+‎</string>
+    <string name="ab">Menu+‎</string>
+    <string name="ac">تلاش کریں…</string>
+    <string name="ad">استفسار صاف کریں</string>
+    <string name="ae">تلاش کا استفسار</string>
+    <string name="af">تلاش کریں</string>
+    <string name="ag">استفسار جمع کرائیں</string>
+    <string name="ah">صوتی تلاش</string>
+    <string name="ai">اس کے ساتھ اشتراک کریں</string>
+    <string name="aj">%s کے ساتھ اشتراک کریں</string>
+    <string name="ak">سکیڑیں</string>
+    <string name="dn">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="qd">تصویر محفوظ کریں</string>
+    <string name="qe">اشتہار کو تصویری گیلری میں تصویر محفوظ کرنے کی اجازت دیں؟</string>
+    <string name="qf">قبول کریں</string>
+    <string name="qg">مسترد کریں</string>
+    <string name="qh">کیلنڈر ایونٹ بنائیں</string>
+    <string name="qi">اشتہار کو ایک کیلنڈر ایونٹ بنانے کی اجازت دیں؟</string>
+    <string name="qj">اشتہار ٹیسٹ کریں</string>
+    <string name="qu">تلاش کریں</string>
+    <string name="tg">+999</string>
+</resources>

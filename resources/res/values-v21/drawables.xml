@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="cj">r/v/cj.xml</drawable>
+    <drawable name="ck">r/v/ck.xml</drawable>
+    <drawable name="cl">r/v/cl.xml</drawable>
+    <drawable name="cm">r/v/cm.xml</drawable>
+    <drawable name="cn">r/v/cn.xml</drawable>
+    <drawable name="co">r/v/co.xml</drawable>
+    <drawable name="cp">r/v/cp.xml</drawable>
+    <drawable name="d">r/v/d.xml</drawable>
+    <drawable name="j">r/v/j.xml</drawable>
+    <drawable name="k">r/v/k.xml</drawable>
+    <drawable name="u">r/v/u.xml</drawable>
+    <drawable name="z">r/v/z.xml</drawable>
+    <drawable name="a0">r/v/a0.xml</drawable>
+    <drawable name="a1">r/v/a1.xml</drawable>
+    <drawable name="cq">r/v/cq.xml</drawable>
+    <drawable name="cr">r/v/cr.xml</drawable>
+    <drawable name="ab">r/v/ab.xml</drawable>
+    <drawable name="an">r/v/an.xml</drawable>
+    <drawable name="ao">r/v/ao.xml</drawable>
+    <drawable name="aq">r/v/aq.xml</drawable>
+    <drawable name="as">r/v/as.xml</drawable>
+    <drawable name="bt">r/v/bt.xml</drawable>
+    <drawable name="bu">r/v/bu.xml</drawable>
+    <drawable name="cs">r/v/cs.xml</drawable>
+    <drawable name="ct">r/v/ct.xml</drawable>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Raz dziennie</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">; %d razy</item>
+        <item quantity="one">; jeden raz</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">Co %d wystapień</item>
+        <item quantity="one">Co %d wystąpienie</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">Co %d dni</item>
+        <item quantity="one">Co %d dzień</item>
+    </plurals>
+    <plurals name="m">
+        <item quantity="other">Co %d miesięcy</item>
+        <item quantity="one">Co %d miesiąc</item>
+    </plurals>
+    <plurals name="n">
+        <item quantity="other">Co %d tygodni</item>
+        <item quantity="one">Co %d tydzień</item>
+    </plurals>
+    <plurals name="o">
+        <item quantity="other">Co %d lat</item>
+        <item quantity="one">Co %d rok</item>
+    </plurals>
+    <plurals name="p">
+        <item quantity="other">Co %1$d tygodni w %2$s</item>
+        <item quantity="one">Co tydzień w %2$s</item>
+    </plurals>
+</resources>

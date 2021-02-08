@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:opacity="opaque">
+    <item>
+        <shape>
+            <gradient android:startColor="@color/b4" android:endColor="@color/b3" android:angle="90" android:centerColor="@color/b3"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap android:gravity="center" android:src="@mipmap/a" android:tileMode="disabled"/>
+    </item>
+    <item android:top="90dp">
+        <bitmap android:gravity="center" android:src="@mipmap/b" android:tileMode="disabled"/>
+    </item>
+</layer-list>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Boshiga o‘tish</string>
+    <string name="w">Yopish</string>
+    <string name="x">Yana</string>
+    <string name="y">OK</string>
+    <string name="z">Hammasi</string>
+    <string name="a0">Ilovani tanlang</string>
+    <string name="a1">YOQILMAGAN</string>
+    <string name="a2">YONIQ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Fn+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">Probel</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menyu+</string>
+    <string name="ac">Qidirish…</string>
+    <string name="ad">So‘rovni o‘chirish</string>
+    <string name="ae">Qidiruv so‘rovi</string>
+    <string name="af">Qidiruv</string>
+    <string name="ag">So‘rov yaratish</string>
+    <string name="ah">Ovozli qidiruv</string>
+    <string name="ai">Ulashish</string>
+    <string name="aj">%s orqali ulashish</string>
+    <string name="ak">Yig‘ish</string>
+    <string name="dn">%1$s ilovasini Google Play xizmatlariga ulab bo‘lmadi. Qaytadan urinib ko‘ring.</string>
+    <string name="qd">Rasmni saqlash</string>
+    <string name="qe">Reklamaga rasmni gallereyaga saqlashga ruxsat berilsinmi?</string>
+    <string name="qf">Qabul qilish</string>
+    <string name="qg">Rad etish</string>
+    <string name="qh">Taqvimda tadbir yaratish</string>
+    <string name="qi">Reklamaga taqvimda tadbir yaratishga ruxsat berilsinmi?</string>
+    <string name="qj">Test reklama</string>
+    <string name="qu">Qidiruv</string>
+    <string name="tg">999+</string>
+</resources>

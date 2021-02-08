@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Gaan na tuisskerm</string>
+    <string name="w">Gaan op</string>
+    <string name="x">Nog opsies</string>
+    <string name="y">Klaar</string>
+    <string name="z">Sien alles</string>
+    <string name="a0">Kies \'n program</string>
+    <string name="a1">AF</string>
+    <string name="a2">AAN</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Funksie+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">spasiebalk</string>
+    <string name="aa">Simbool+</string>
+    <string name="ab">Kieslys+</string>
+    <string name="ac">Soek …</string>
+    <string name="ad">Vee navraag uit</string>
+    <string name="ae">Soektognavraag</string>
+    <string name="af">Soek</string>
+    <string name="ag">Dien navraag in</string>
+    <string name="ah">Stemsoektog</string>
+    <string name="ai">Deel met</string>
+    <string name="aj">Deel met %s</string>
+    <string name="ak">Vou in</string>
+    <string name="dn">%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.</string>
+    <string name="qd">Stoor prent</string>
+    <string name="qe">Laat advertensie toe om prent in Prentgalery te stoor?</string>
+    <string name="qf">Aanvaar</string>
+    <string name="qg">Wys af</string>
+    <string name="qh">Skep kalendergeleentheid</string>
+    <string name="qi">Laat advertensie toe om \'n kalendergeleentheid te skep?</string>
+    <string name="qj">Toetsadvertensie</string>
+    <string name="qu">Soek</string>
+    <string name="tg">999+</string>
+</resources>

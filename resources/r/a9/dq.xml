@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:minWidth="300dp">
+    <FrameLayout android:layout_gravity="center_vertical" android:background="@color/af" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <AutoCompleteTextView android:id="@+id/lb" android:background="@drawable/aw" android:paddingRight="30dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="8dp" android:minHeight="48dp" android:hint="@string/ic" android:singleLine="true" android:completionThreshold="1" android:imeOptions="actionDone"/>
+        <ImageButton android:layout_gravity="right|center_vertical|center_horizontal|center" android:id="@+id/dc" android:background="@drawable/bs" android:paddingTop="8dp" android:paddingBottom="8dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:src="@drawable/ek" android:contentDescription="@string/qw" android:paddingStart="8dp" android:paddingEnd="8dp"/>
+    </FrameLayout>
+    <ListView android:id="@+id/og" android:background="#ffececec" android:layout_width="match_parent" android:layout_height="wrap_content" android:choiceMode="singleChoice"/>
+</LinearLayout>

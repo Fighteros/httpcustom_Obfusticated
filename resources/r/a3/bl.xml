@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:id="@+id/k3" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/hk" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <EditText android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/nw" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:hint="@string/op" android:maxLines="1" android:inputType="text"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/p4" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/v7" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/l2" android:visibility="gone" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/q1" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/d8" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/fx" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/ey" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/fw" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/bv" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/c2" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/bw" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/f8" android:layout_weight="0.5"/>
+                <CheckBox android:id="@+id/m0" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/rx" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+                <CheckBox android:id="@+id/da" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/w1" android:layout_weight="0.5"/>
+            </LinearLayout>
+            <Button android:textColor="@android:color/white" android:id="@+id/c8" android:background="@drawable/cc" android:longClickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:text="@string/aq"/>
+            <TextView android:textAppearance="@style/hp" android:textSize="12sp" android:id="@+id/nv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:text="@string/k3" android:textAllCaps="true"/>
+            <SeekBar android:id="@+id/lr" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="3" android:progress="0" style="@style/og"/>
+            <TextView android:textAppearance="@style/hp" android:textSize="12sp" android:id="@+id/oj" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:text="@string/rh" android:textAllCaps="true"/>
+            <TextView android:textAppearance="@style/hp" android:textSize="12sp" android:id="@+id/lv" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="@string/th"/>
+            <RelativeLayout android:gravity="center" android:id="@+id/bi" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true"/>
+            <RelativeLayout android:id="@+id/cd" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_below="@+id/bj">
+                <TextView android:textAppearance="@style/hp" android:textColorLink="@color/b2" android:gravity="start" android:autoLink="web" android:linksClickable="true" android:id="@+id/nl" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="2016 © ePro Dev. Team"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

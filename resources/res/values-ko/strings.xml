@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">홈으로 이동</string>
+    <string name="w">위로 이동</string>
+    <string name="x">추가 옵션</string>
+    <string name="y">완료</string>
+    <string name="z">전체 보기</string>
+    <string name="a0">앱 선택</string>
+    <string name="a1">사용 중지</string>
+    <string name="a2">사용</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">스페이스바</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">검색...</string>
+    <string name="ad">검색어 삭제</string>
+    <string name="ae">검색어</string>
+    <string name="af">검색</string>
+    <string name="ag">검색어 보내기</string>
+    <string name="ah">음성 검색</string>
+    <string name="ai">공유 대상:</string>
+    <string name="aj">%s과(와) 공유</string>
+    <string name="ak">접기</string>
+    <string name="dn">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="qd">이미지 저장</string>
+    <string name="qe">광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?</string>
+    <string name="qf">동의</string>
+    <string name="qg">거부</string>
+    <string name="qh">캘린더 일정 만들기</string>
+    <string name="qi">광고에서 캘린더 일정을 만들도록 허용하시겠습니까?</string>
+    <string name="qj">테스트 광고</string>
+    <string name="qu">검색</string>
+    <string name="tg">999+</string>
+</resources>

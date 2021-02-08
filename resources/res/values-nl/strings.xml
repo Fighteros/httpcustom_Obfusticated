@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Navigeren naar startpositie</string>
+    <string name="w">Omhoog navigeren</string>
+    <string name="x">Meer opties</string>
+    <string name="y">Gereed</string>
+    <string name="z">Alles weergeven</string>
+    <string name="a0">Een app selecteren</string>
+    <string name="a1">UIT</string>
+    <string name="a2">AAN</string>
+    <string name="a3">Alt +</string>
+    <string name="a4">Ctrl +</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Functie +</string>
+    <string name="a8">Meta +</string>
+    <string name="a9">Shift +</string>
+    <string name="a_">spatie</string>
+    <string name="aa">Sym +</string>
+    <string name="ab">Menu +</string>
+    <string name="ac">Zoeken…</string>
+    <string name="ad">Zoekopdracht wissen</string>
+    <string name="ae">Zoekopdracht</string>
+    <string name="af">Zoeken</string>
+    <string name="ag">Zoekopdracht verzenden</string>
+    <string name="ah">Gesproken zoekopdracht</string>
+    <string name="ai">Delen met</string>
+    <string name="aj">Delen met %s</string>
+    <string name="ak">Samenvouwen</string>
+    <string name="dn">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="qd">Afbeelding opslaan</string>
+    <string name="qe">Advertentie toestaan om afbeelding op te slaan in fotogalerij?</string>
+    <string name="qf">Accepteren</string>
+    <string name="qg">Weigeren</string>
+    <string name="qh">Agenda-afspraak maken</string>
+    <string name="qi">Advertentie toestaan om een agenda-afspraak te maken?</string>
+    <string name="qj">Testadvertentie</string>
+    <string name="qu">Zoeken</string>
+    <string name="tg">999+</string>
+</resources>

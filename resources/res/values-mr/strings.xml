@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">घराकडे नेव्हिगेट करा</string>
+    <string name="w">वर नेव्‍हिगेट करा</string>
+    <string name="x">आणखी पर्याय</string>
+    <string name="y">पूर्ण झाले</string>
+    <string name="z">सर्व पाहा</string>
+    <string name="a0">अ‍ॅप निवडा</string>
+    <string name="a1">बंद</string>
+    <string name="a2">सुरू</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">हटवा</string>
+    <string name="a6">एंटर करा</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">मेनू+</string>
+    <string name="ac">शोधा…</string>
+    <string name="ad">क्‍वेरी साफ करा</string>
+    <string name="ae">शोध क्वेरी</string>
+    <string name="af">शोध</string>
+    <string name="ag">क्वेरी सबमिट करा</string>
+    <string name="ah">व्हॉइस शोध</string>
+    <string name="ai">यांच्यासोबत शेअर करा</string>
+    <string name="aj">%s सह शेअर करा</string>
+    <string name="ak">कोलॅप्स करा</string>
+    <string name="dn">%1$s ला Google Play सेवांमध्ये समस्या येत आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="qd">इमेज सेव्ह करा</string>
+    <string name="qe">चित्र गॅलरीत इमेज संग्रहित करण्याची जाहिरातीस अनुमती द्यायची?</string>
+    <string name="qf">स्वीकारा</string>
+    <string name="qg">नकार द्या</string>
+    <string name="qh">कॅलेंडर इव्हेंट तयार करा</string>
+    <string name="qi">जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?</string>
+    <string name="qj">चाचणी जाहिरात</string>
+    <string name="qu">शोध</string>
+    <string name="tg">९९९+</string>
+</resources>

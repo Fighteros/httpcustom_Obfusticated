@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">ホームに戻る</string>
+    <string name="w">前に戻る</string>
+    <string name="x">その他のオプション</string>
+    <string name="y">完了</string>
+    <string name="z">すべて表示</string>
+    <string name="a0">アプリの選択</string>
+    <string name="a1">OFF</string>
+    <string name="a2">ON</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">Space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">検索…</string>
+    <string name="ad">検索キーワードを削除</string>
+    <string name="ae">検索キーワード</string>
+    <string name="af">検索</string>
+    <string name="ag">検索キーワードを送信</string>
+    <string name="ah">音声検索</string>
+    <string name="ai">共有</string>
+    <string name="aj">%sと共有</string>
+    <string name="ak">折りたたむ</string>
+    <string name="dn">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="qd">画像の保存</string>
+    <string name="qe">広告が画像ギャラリーに画像を保存することを許可しますか？</string>
+    <string name="qf">許可する</string>
+    <string name="qg">許可しない</string>
+    <string name="qh">カレンダーの予定の作成</string>
+    <string name="qi">広告がカレンダーの予定を作成することを許可しますか？</string>
+    <string name="qj">テスト広告</string>
+    <string name="qu">検索</string>
+    <string name="tg">999+</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">होम पेज पर जाएं</string>
+    <string name="w">वापस जाएं</string>
+    <string name="x">ज़्यादा विकल्प</string>
+    <string name="y">हो गया</string>
+    <string name="z">सभी देखें</string>
+    <string name="a0">कोई ऐप्लिकेशन चुनें</string>
+    <string name="a1">बंद</string>
+    <string name="a2">चालू</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">खोजें…</string>
+    <string name="ad">क्‍वेरी हटाएं</string>
+    <string name="ae">सर्च क्वेरी</string>
+    <string name="af">खोजें</string>
+    <string name="ag">क्वेरी सबमिट करें</string>
+    <string name="ah">बोलकर खोजें</string>
+    <string name="ai">इससे शेयर करें:</string>
+    <string name="aj">%s से शेयर करें</string>
+    <string name="ak">छोटा करें</string>
+    <string name="dn">%1$s को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से प्रयास करें.</string>
+    <string name="qd">तस्वीर सेव करें</string>
+    <string name="qe">विज्ञापन को चित्र गैलरी में चित्र सहेजने दें?</string>
+    <string name="qf">स्वीकार करें</string>
+    <string name="qg">अस्वीकार करें</string>
+    <string name="qh">कैलेंडर इवेंट बनाएं</string>
+    <string name="qi">विज्ञापन को कैलेंडर इवेंट बनाने दें?</string>
+    <string name="qj">परीक्षण विज्ञापन</string>
+    <string name="qu">खोजें</string>
+    <string name="tg">999+</string>
+</resources>

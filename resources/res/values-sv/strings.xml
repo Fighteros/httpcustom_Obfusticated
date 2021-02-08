@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Navigera hem</string>
+    <string name="w">Navigera uppåt</string>
+    <string name="x">Fler alternativ</string>
+    <string name="y">Klar</string>
+    <string name="z">Visa alla</string>
+    <string name="a0">Välj en app</string>
+    <string name="a1">AV</string>
+    <string name="a2">PÅ</string>
+    <string name="a3">Alt + </string>
+    <string name="a4">Ctrl + </string>
+    <string name="a5">delete</string>
+    <string name="a6">retur</string>
+    <string name="a7">Funktion + </string>
+    <string name="a8">Meta + </string>
+    <string name="a9">Skift + </string>
+    <string name="a_">blanksteg</string>
+    <string name="aa">Symbol + </string>
+    <string name="ab">Meny + </string>
+    <string name="ac">Sök …</string>
+    <string name="ad">Ta bort frågan</string>
+    <string name="ae">Sökfråga</string>
+    <string name="af">Sök</string>
+    <string name="ag">Skicka fråga</string>
+    <string name="ah">Röstsökning</string>
+    <string name="ai">Dela med</string>
+    <string name="aj">Dela med %s</string>
+    <string name="ak">Komprimera</string>
+    <string name="dn">Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</string>
+    <string name="qd">Spara bild</string>
+    <string name="qe">Tillåter du att annonsen sparar bilden i Bildgalleriet?</string>
+    <string name="qf">Godkänn</string>
+    <string name="qg">Godkänn inte</string>
+    <string name="qh">Skapa kalenderhändelse</string>
+    <string name="qi">Tillåter du att annonsen skapar en kalenderhändelse?</string>
+    <string name="qj">Testannons</string>
+    <string name="qu">Sök</string>
+    <string name="tg">999+</string>
+</resources>

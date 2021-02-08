@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="am">
+    </style>
+    <style name="aw">
+    </style>
+    <style name="b_">
+    </style>
+    <style name="bg">
+    </style>
+    <style name="sg">
+        <item name="b">?android:attr/actionBarItemBackground</item>
+        <item name="o">?android:attr/actionMenuTextAppearance</item>
+        <item name="p">?android:attr/actionMenuTextColor</item>
+        <item name="a3">?android:attr/actionOverflowButtonStyle</item>
+        <item name="fs">@drawable/cu</item>
+        <item name="pp">?android:attr/ratingBarStyleIndicator</item>
+        <item name="pq">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="sh">
+        <item name="b">?android:attr/actionBarItemBackground</item>
+        <item name="o">?android:attr/actionMenuTextAppearance</item>
+        <item name="p">?android:attr/actionMenuTextColor</item>
+        <item name="a3">?android:attr/actionOverflowButtonStyle</item>
+        <item name="fs">@drawable/cu</item>
+        <item name="pp">?android:attr/ratingBarStyleIndicator</item>
+        <item name="pq">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="d6">
+    </style>
+    <style name="db">
+    </style>
+    <style name="dd">
+    </style>
+    <style name="dn">
+        <item name="?0x10104dd">@null</item>
+        <item name="?0x10104de">@null</item>
+    </style>
+    <style name="e8">
+    </style>
+    <style name="e9">
+    </style>
+    <style name="ee">
+    </style>
+    <style name="ef">
+        <item name="?0x10104dd">1</item>
+        <item name="?0x10104de">@null</item>
+    </style>
+    <style name="f0">
+        <item name="da">?unknown_attr_ref: 10104e2</item>
+    </style>
+    <style name="qv">
+        <item name="android:popupBackground">?attr/pb</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="qw">
+        <item name="android:popupBackground">?attr/pb</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+</resources>

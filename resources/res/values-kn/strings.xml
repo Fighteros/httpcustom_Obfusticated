@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">ಹೋಮ್‌ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="w">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
+    <string name="x">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+    <string name="y">ಮುಗಿದಿದೆ</string>
+    <string name="z">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+    <string name="a0">ಆ್ಯಪ್‌ವೊಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="a1">ಆಫ್</string>
+    <string name="a2">ಆನ್</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">ಹುಡುಕಿ…</string>
+    <string name="ad">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="ae">ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="af">ಹುಡುಕಿ</string>
+    <string name="ag">ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸಿ</string>
+    <string name="ah">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="ai">ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="aj">%s ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="ak">ಕುಗ್ಗಿಸಿ</string>
+    <string name="dn">Google Play ಸೇವೆಗಳಲ್ಲಿ %1$s ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="qd">ಚಿತ್ರ ಉಳಿಸಿ</string>
+    <string name="qe">ಚಿತ್ರದ ಗ್ಯಾಲರಿಯಲ್ಲಿ ಚಿತ್ರ ಸಂಗ್ರಹಿಸಿಡಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
+    <string name="qf">ಸಮ್ಮತಿಸಿ</string>
+    <string name="qg">ನಿರಾಕರಿಸಿ</string>
+    <string name="qh">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಿ</string>
+    <string name="qi">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
+    <string name="qj">ಪರೀಕ್ಷಾ ಜಾಹೀರಾತು</string>
+    <string name="qu">ಹುಡುಕಿ</string>
+    <string name="tg">999+</string>
+</resources>

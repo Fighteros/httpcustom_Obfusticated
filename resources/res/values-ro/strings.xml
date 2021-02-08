@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Navigați la ecranul de pornire</string>
+    <string name="w">Navigați în sus</string>
+    <string name="x">Mai multe opțiuni</string>
+    <string name="y">Gata</string>
+    <string name="z">Afișați tot</string>
+    <string name="a0">Alegeți o aplicație</string>
+    <string name="a1">DEZACTIVAT</string>
+    <string name="a2">ACTIVAT</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Meniu+</string>
+    <string name="ac">Căutați…</string>
+    <string name="ad">Ștergeți interogarea</string>
+    <string name="ae">Termen de căutare</string>
+    <string name="af">Căutați</string>
+    <string name="ag">Trimiteți interogarea</string>
+    <string name="ah">Căutare vocală</string>
+    <string name="ai">Trimiteți la</string>
+    <string name="aj">Trimiteți folosind %s</string>
+    <string name="ak">Restrângeți</string>
+    <string name="dn">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="qd">Salvați imaginea</string>
+    <string name="qe">Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
+    <string name="qf">Acceptați</string>
+    <string name="qg">Refuzați</string>
+    <string name="qh">Creați un eveniment în calendar</string>
+    <string name="qi">Permiteți ca anunțul să creeze un eveniment în calendar?</string>
+    <string name="qj">Anunț de probă</string>
+    <string name="qu">Căutați</string>
+    <string name="tg">999+</string>
+</resources>

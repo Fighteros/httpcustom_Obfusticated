@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Navigasi laman utama</string>
+    <string name="w">Navigasi ke atas</string>
+    <string name="x">Lagi pilihan</string>
+    <string name="y">Selesai</string>
+    <string name="z">Lihat semua</string>
+    <string name="a0">Pilih apl</string>
+    <string name="a1">MATI</string>
+    <string name="a2">HIDUP</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Fungsi+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">ruang</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Cari…</string>
+    <string name="ad">Kosongkan pertanyaan</string>
+    <string name="ae">Pertanyaan carian</string>
+    <string name="af">Cari</string>
+    <string name="ag">Serah pertanyaan</string>
+    <string name="ah">Carian suara</string>
+    <string name="ai">Kongsi dengan</string>
+    <string name="aj">Kongsi dengan %s</string>
+    <string name="ak">Runtuhkan</string>
+    <string name="dn">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="qd">Simpan imej</string>
+    <string name="qe">Benarkan Iklan menyimpan imej dalam galeri Gambar?</string>
+    <string name="qf">Terima</string>
+    <string name="qg">Tolak</string>
+    <string name="qh">Buat acara kalendar</string>
+    <string name="qi">Benarkan Iklan membuat acara kalendar?</string>
+    <string name="qj">Iklan Ujian</string>
+    <string name="qu">Cari</string>
+    <string name="tg">999+</string>
+</resources>

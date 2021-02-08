@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Liigu avalehele</string>
+    <string name="w">Liigu üles</string>
+    <string name="x">Rohkem valikuid</string>
+    <string name="y">Valmis</string>
+    <string name="z">Kuva kõik</string>
+    <string name="a0">Valige rakendus</string>
+    <string name="a1">VÄLJAS</string>
+    <string name="a2">SEES</string>
+    <string name="a3">Alt +</string>
+    <string name="a4">Ctrl +</string>
+    <string name="a5">kustuta</string>
+    <string name="a6">sisestusklahv</string>
+    <string name="a7">Funktsiooniklahv +</string>
+    <string name="a8">Meta +</string>
+    <string name="a9">Tõstuklahv +</string>
+    <string name="a_">tühik</string>
+    <string name="aa">Sym +</string>
+    <string name="ab">Menüü +</string>
+    <string name="ac">Otsige …</string>
+    <string name="ad">Päringu tühistamine</string>
+    <string name="ae">Otsingupäring</string>
+    <string name="af">Otsing</string>
+    <string name="ag">Päringu esitamine</string>
+    <string name="ah">Häälotsing</string>
+    <string name="ai">Jaga:</string>
+    <string name="aj">Jagamine rakendusega %s</string>
+    <string name="ak">Ahendamine</string>
+    <string name="dn">Rakendusel %1$s on probleeme Google Play teenustega. Proovige uuesti.</string>
+    <string name="qd">Salvesta kujutis</string>
+    <string name="qe">Kas lubada reklaamil salvestada kujutis pildigaleriisse?</string>
+    <string name="qf">Nõustu</string>
+    <string name="qg">Keeldu</string>
+    <string name="qh">Loo kalendrisündmus</string>
+    <string name="qi">Kas lubada reklaamil luua kalendrisündmus?</string>
+    <string name="qj">Testreklaam</string>
+    <string name="qu">Otsing</string>
+    <string name="tg">999+</string>
+</resources>

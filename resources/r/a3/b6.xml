@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:paddingLeft="@dimen/bf" android:paddingTop="@dimen/bg" android:paddingRight="@dimen/bf" android:paddingBottom="@dimen/bg" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/bn">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <team.dev.epro.apkcustom.widgets.logger.LogView android:id="@+id/hx" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <com.github.clans.fab.FloatingActionButton android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="@+id/fm" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/ds" android:src="@drawable/e_" app:fab_colorNormal="@color/b2" app:fab_colorPressed="@color/b4" app:menu_shadowColor="#ff444444"/>
+</FrameLayout>

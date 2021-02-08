@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Навигиране към началния екран</string>
+    <string name="w">Навигиране нагоре</string>
+    <string name="x">Още опции</string>
+    <string name="y">Готово</string>
+    <string name="z">Преглед на всички</string>
+    <string name="a0">Изберете приложение</string>
+    <string name="a1">ИЗКЛ.</string>
+    <string name="a2">ВКЛ.</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">клавиша за интервал</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Търсете…</string>
+    <string name="ad">Изчистване на заявката</string>
+    <string name="ae">Заявка за търсене</string>
+    <string name="af">Търсене</string>
+    <string name="ag">Изпращане на заявката</string>
+    <string name="ah">Гласово търсене</string>
+    <string name="ai">Споделяне със:</string>
+    <string name="aj">Споделяне със: %s</string>
+    <string name="ak">Свиване</string>
+    <string name="dn">%1$s има проблеми с услугите за Google Play. Моля, опитайте отново.</string>
+    <string name="qd">Запазване на изображението</string>
+    <string name="qe">Да се разреши ли на рекламата да съхрани изображение в галерията със снимки?</string>
+    <string name="qf">Приемам</string>
+    <string name="qg">Отхвърлям</string>
+    <string name="qh">Създаване на събитие в календара</string>
+    <string name="qi">Да се разреши ли на рекламата да създаде събитие в календара?</string>
+    <string name="qj">Тестова реклама</string>
+    <string name="qu">Търсене</string>
+    <string name="tg">999+</string>
+</resources>

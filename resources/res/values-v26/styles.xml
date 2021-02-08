@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="i">
+        <item name="android:windowBackground">@color/d8</item>
+        <item name="android:editTextStyle">@style/sk</item>
+        <item name="er">@color/b2</item>
+        <item name="f4">@color/b3</item>
+        <item name="f5">@color/b4</item>
+        <item name="h2">@style/sk</item>
+    </style>
+    <style name="sk">
+        <item name="?0x1010558">8</item>
+    </style>
+    <style name="b_">
+    </style>
+    <style name="bg">
+    </style>
+    <style name="sl">
+        <item name="ex">?unknown_attr_ref: 1010543</item>
+    </style>
+    <style name="sm">
+        <item name="ex">?unknown_attr_ref: 1010543</item>
+    </style>
+    <style name="sn">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="?0x1010540">true</item>
+    </style>
+    <style name="eh">
+    </style>
+    <style name="or">
+        <item name="android:background">?attr/f4</item>
+        <item name="android:stateListAnimator">@animator/o</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="?0x1010540">true</item>
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Անցնել գլխավոր էջ</string>
+    <string name="w">Անցնել վերև</string>
+    <string name="x">Այլ ընտրանքներ</string>
+    <string name="y">Պատրաստ է</string>
+    <string name="z">Տեսնել բոլորը</string>
+    <string name="a0">Ընտրել հավելված</string>
+    <string name="a1">ԱՆՋԱՏԵԼ</string>
+    <string name="a2">ՄԻԱՑՆԵԼ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">բացատ</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Որոնում…</string>
+    <string name="ad">Ջնջել հարցումը</string>
+    <string name="ae">Որոնման հարցում</string>
+    <string name="af">Որոնել</string>
+    <string name="ag">Ուղարկել հարցումը</string>
+    <string name="ah">Ձայնային որոնում</string>
+    <string name="ai">Կիսվել…</string>
+    <string name="aj">Կիսվել %s հավելվածի միջոցով</string>
+    <string name="ak">Ծալել</string>
+    <string name="dn">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="qd">Պահել պատկերը</string>
+    <string name="qe">Թույլ տա՞լ Գովազդին պահել պատկերը Պատկերասրահում:</string>
+    <string name="qf">Ընդունել</string>
+    <string name="qg">Մերժել</string>
+    <string name="qh">Ստեղծել օրացույցի միջոցառում</string>
+    <string name="qi">Թույլ տա՞լ Գովազդին ստեղծել օրացույցի միջոցառում:</string>
+    <string name="qj">Փորձարկել գովազդը</string>
+    <string name="qu">Որոնել</string>
+    <string name="tg">999+</string>
+</resources>

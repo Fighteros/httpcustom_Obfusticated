@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">转到首页</string>
+    <string name="w">转到上一层级</string>
+    <string name="x">更多选项</string>
+    <string name="y">完成</string>
+    <string name="z">查看全部</string>
+    <string name="a0">选择应用</string>
+    <string name="a1">关闭</string>
+    <string name="a2">开启</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">Delete 键</string>
+    <string name="a6">Enter 键</string>
+    <string name="a7">Fn+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">空格键</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">搜索…</string>
+    <string name="ad">清除查询</string>
+    <string name="ae">搜索查询</string>
+    <string name="af">搜索</string>
+    <string name="ag">提交查询</string>
+    <string name="ah">语音搜索</string>
+    <string name="ai">分享对象</string>
+    <string name="aj">与%s分享</string>
+    <string name="ak">收起</string>
+    <string name="dn">%1$s无法访问 Google Play 服务，请重试。</string>
+    <string name="qd">保存图片</string>
+    <string name="qe">允许广告将图片存储在图库中吗？</string>
+    <string name="qf">接受</string>
+    <string name="qg">拒绝</string>
+    <string name="qh">创建日历活动</string>
+    <string name="qi">允许广告创建日历活动吗？</string>
+    <string name="qj">测试广告</string>
+    <string name="qu">搜索</string>
+    <string name="tg">999+</string>
+</resources>

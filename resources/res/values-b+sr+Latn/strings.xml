@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Idite na početnu</string>
+    <string name="w">Idite nagore</string>
+    <string name="x">Još opcija</string>
+    <string name="y">Gotovo</string>
+    <string name="z">Prikaži sve</string>
+    <string name="a0">Izaberite aplikaciju</string>
+    <string name="a1">ISKLJUČENO</string>
+    <string name="a2">UKLJUČENO</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">taster za razmak</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Pretražite…</string>
+    <string name="ad">Obrišite upit</string>
+    <string name="ae">Pretražite upit</string>
+    <string name="af">Pretražite</string>
+    <string name="ag">Pošaljite upit</string>
+    <string name="ah">Glasovna pretraga</string>
+    <string name="ai">Delite pomoću</string>
+    <string name="aj">Delite pomoću aplikacije %s</string>
+    <string name="ak">Skupi</string>
+    <string name="dn">%1$s ima problema sa Google Play uslugama. Probajte ponovo.</string>
+    <string name="qd">Čuvanje slike</string>
+    <string name="qe">Želite li da dozvolite da oglas sačuva sliku u Galeriji slika?</string>
+    <string name="qf">Prihvati</string>
+    <string name="qg">Odbij</string>
+    <string name="qh">Pravljenje događaja u kalendaru</string>
+    <string name="qi">Želite li da dozvolite da oglas napravi događaj u kalendaru?</string>
+    <string name="qj">Probni oglas</string>
+    <string name="qu">Pretražite</string>
+    <string name="tg">999+</string>
+</resources>

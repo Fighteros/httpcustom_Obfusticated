@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">မူလနေရာကို ပြန်သွားရန်</string>
+    <string name="w">အပေါ်သို့ ရွှေ့ရန်</string>
+    <string name="x">နောက်ထပ် ရွေးစရာများ</string>
+    <string name="y">ပြီးပြီ</string>
+    <string name="z">အားလုံး ကြည့်ရန်</string>
+    <string name="a0">အက်ပ်တစ်ခုကို ရွေးရန်</string>
+    <string name="a1">ပိတ်ရန်</string>
+    <string name="a2">ဖွင့်ရန်</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">ရှာဖွေရန်…</string>
+    <string name="ad">ရှာဖွေမှုကို ဖယ်ရှားရန်</string>
+    <string name="ae">ရှာဖွေရန် မေးခွန်း</string>
+    <string name="af">ရှာရန်</string>
+    <string name="ag">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="ah">အသံဖြင့် ရှာရန်</string>
+    <string name="ai">နှင့် မျှဝေရန်</string>
+    <string name="aj">%s ဖြင့် မျှဝေရန်</string>
+    <string name="ak">လျှော့ပြရန်</string>
+    <string name="dn">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="qd">ဓာတ်ပုံကို သိမ်းရန်</string>
+    <string name="qe">ကြော်ငြာအား ဓာတ်ပုံပြခန်းတွင် ပုံကိုသိမ်းဆည်းခွင့် ပြုလိုပါသလား။</string>
+    <string name="qf">လက်ခံရန်</string>
+    <string name="qg">ငြင်းပယ်ရန်</string>
+    <string name="qh">ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းရန်</string>
+    <string name="qi">ကြော်ငြာအား ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းခွင့် ပြုပါသလား။</string>
+    <string name="qj">စမ်းသပ်ကြော်ငြာ</string>
+    <string name="qu">ရှာဖွေမှု</string>
+    <string name="tg">၉၉၉+</string>
+</resources>

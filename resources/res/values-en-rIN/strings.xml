@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Navigate home</string>
+    <string name="w">Navigate up</string>
+    <string name="x">More options</string>
+    <string name="y">Done</string>
+    <string name="z">See all</string>
+    <string name="a0">Choose an app</string>
+    <string name="a1">OFF</string>
+    <string name="a2">ON</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">space</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Search…</string>
+    <string name="ad">Clear query</string>
+    <string name="ae">Search query</string>
+    <string name="af">Search</string>
+    <string name="ag">Submit query</string>
+    <string name="ah">Voice search</string>
+    <string name="ai">Share with</string>
+    <string name="aj">Share with %s</string>
+    <string name="ak">Collapse</string>
+    <string name="qu">Search</string>
+    <string name="tg">999+</string>
+</resources>

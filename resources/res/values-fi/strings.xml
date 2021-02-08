@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Siirry etusivulle</string>
+    <string name="w">Siirry ylös</string>
+    <string name="x">Lisäasetukset</string>
+    <string name="y">Valmis</string>
+    <string name="z">Näytä kaikki</string>
+    <string name="a0">Valitse sovellus</string>
+    <string name="a1">POIS PÄÄLTÄ</string>
+    <string name="a2">PÄÄLLÄ</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">delete</string>
+    <string name="a6">enter</string>
+    <string name="a7">Fn+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Vaihto+</string>
+    <string name="a_">välilyönti</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Valikko+</string>
+    <string name="ac">Haku…</string>
+    <string name="ad">Tyhjennä kysely</string>
+    <string name="ae">Hakukysely</string>
+    <string name="af">Haku</string>
+    <string name="ag">Lähetä kysely</string>
+    <string name="ah">Puhehaku</string>
+    <string name="ai">Jaa…</string>
+    <string name="aj">Jaa: %s</string>
+    <string name="ak">Tiivistä</string>
+    <string name="dn">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="qd">Tallenna kuva</string>
+    <string name="qe">Myönnetäänkö mainokselle oikeus tallentaa kuva galleriaan?</string>
+    <string name="qf">Hyväksy</string>
+    <string name="qg">Hylkää</string>
+    <string name="qh">Luo kalenteritapahtuma</string>
+    <string name="qi">Myönnetäänkö mainokselle oikeus luoda kalenteritapahtuma?</string>
+    <string name="qj">Testimainos</string>
+    <string name="qu">Haku</string>
+    <string name="tg">999+</string>
+</resources>

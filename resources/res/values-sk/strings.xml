@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Prejsť na plochu</string>
+    <string name="w">Prejsť nahor</string>
+    <string name="x">Ďalšie možnosti</string>
+    <string name="y">Hotovo</string>
+    <string name="z">Zobraziť všetky</string>
+    <string name="a0">Vybrať aplikáciu</string>
+    <string name="a1">VYP.</string>
+    <string name="a2">ZAP.</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">odstrániť</string>
+    <string name="a6">enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">medzerník</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Vyhľadať…</string>
+    <string name="ad">Vymazať dopyt</string>
+    <string name="ae">Vyhľadávací dopyt</string>
+    <string name="af">Hľadať</string>
+    <string name="ag">Odoslať dopyt</string>
+    <string name="ah">Hlasové vyhľadávanie</string>
+    <string name="ai">Zdieľať s</string>
+    <string name="aj">Zdieľať s aplikáciou %s</string>
+    <string name="ak">Zbaliť</string>
+    <string name="dn">Aplikácia %1$s má problémy so službami Google Play. Skúste to znova.</string>
+    <string name="qd">Uloženie obrázka</string>
+    <string name="qe">Povoliť reklame uložiť obrázok do galérie obrázkov?</string>
+    <string name="qf">Prijať</string>
+    <string name="qg">Odmietnuť</string>
+    <string name="qh">Vytvorenie udalosti v kalendári</string>
+    <string name="qi">Povoliť reklame vytvoriť udalosť v kalendári?</string>
+    <string name="qj">Testovacia reklama</string>
+    <string name="qu">Hľadať</string>
+    <string name="tg">999+</string>
+</resources>

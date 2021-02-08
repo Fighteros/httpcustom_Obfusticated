@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="es">24dp</dimen>
+    <dimen name="ev">24dp</dimen>
+</resources>

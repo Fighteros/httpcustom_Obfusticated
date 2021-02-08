@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="v">Ugrás a főoldalra</string>
+    <string name="w">Fel</string>
+    <string name="x">További lehetőségek</string>
+    <string name="y">Kész</string>
+    <string name="z">Az összes megtekintése</string>
+    <string name="a0">Válasszon alkalmazást</string>
+    <string name="a1">KI</string>
+    <string name="a2">BE</string>
+    <string name="a3">Alt+</string>
+    <string name="a4">Ctrl+</string>
+    <string name="a5">Delete</string>
+    <string name="a6">Enter</string>
+    <string name="a7">Function+</string>
+    <string name="a8">Meta+</string>
+    <string name="a9">Shift+</string>
+    <string name="a_">Szóköz</string>
+    <string name="aa">Sym+</string>
+    <string name="ab">Menu+</string>
+    <string name="ac">Keresés…</string>
+    <string name="ad">Lekérdezés törlése</string>
+    <string name="ae">Keresési lekérdezés</string>
+    <string name="af">Keresés</string>
+    <string name="ag">Lekérdezés küldése</string>
+    <string name="ah">Hangalapú keresés</string>
+    <string name="ai">Megosztás a következővel:</string>
+    <string name="aj">Megosztás a következő alkalmazással: %s</string>
+    <string name="ak">Összecsukás</string>
+    <string name="dn">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="qd">Kép mentése</string>
+    <string name="qe">Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?</string>
+    <string name="qf">Elfogadás</string>
+    <string name="qg">Elutasítás</string>
+    <string name="qh">Naptáresemény létrehozása</string>
+    <string name="qi">Engedélyezi a hirdetés számára naptáresemény létrehozását?</string>
+    <string name="qj">Teszthirdetés</string>
+    <string name="qu">Keresés</string>
+    <string name="tg">999+</string>
+</resources>
